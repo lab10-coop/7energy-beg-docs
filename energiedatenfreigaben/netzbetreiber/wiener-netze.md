@@ -4,8 +4,6 @@ Marktpartner-Details: [https://www.ebutilities.at/marktpartner/1](https://www.eb
 
 Die Wiener Netze betreibt ein Smart Meter Webportal mit Login für ihre Kunden, bei dem man sich zuerst registrieren muss. Die Registrierung benötigt die E-Mail Adresse, Namen und Kennwort.  &#x20;
 
-{% embed url="https://log.wien/auth/realms/logwien/login-actions/registration?client_id=wn-smartmeter&tab_id=3EKk1bgMsX4" %}
-
 ### 1. Schritt: Einloggen&#x20;
 
 Du kannst das Smart Meter Webportal über den Login aufrufen.&#x20;
