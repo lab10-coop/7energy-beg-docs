@@ -1,3 +1,7 @@
+---
+description: 'EC-Nummer: AT009000'
+---
+
 # Netz Burgenland
 
 Marktpartner-Details: [https://www.ebutilities.at/marktpartner/90](https://www.ebutilities.at/marktpartner/90)

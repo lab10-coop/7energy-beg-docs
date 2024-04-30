@@ -1,3 +1,7 @@
+---
+description: 'EC-Nummer: AT002000'
+---
+
 # Netz Niederösterreich
 
 Marktpartner-Details: [https://www.ebutilities.at/marktpartner/2](https://www.ebutilities.at/marktpartner/2)

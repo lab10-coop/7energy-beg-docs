@@ -1,5 +1,5 @@
 ---
-description: 'Stand: 16.06.2023'
+description: 'EC-Nummer: AT0085700'
 ---
 
 # Elektrizitätswerk Fernitz Ing. Franz Purkarthofer

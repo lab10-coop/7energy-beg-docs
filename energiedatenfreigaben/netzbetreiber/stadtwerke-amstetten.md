@@ -1,3 +1,7 @@
+---
+description: 'EC-Nummer: AT002110'
+---
+
 # Stadtwerke Amstetten
 
 Marktpartner-Details: [https://www.ebutilities.at/marktpartner/220](https://www.ebutilities.at/marktpartner/220)

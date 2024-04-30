@@ -1,5 +1,5 @@
 ---
-description: 'Stand: 15.06.2023'
+description: 'EC-Nummer: AT008100'
 ---
 
 # Stromnetz Graz

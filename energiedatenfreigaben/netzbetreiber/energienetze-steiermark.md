@@ -1,5 +1,5 @@
 ---
-description: 'Stand: 19.06.2023'
+description: 'EC-Nummer: AT008000'
 ---
 
 # Energienetze Steiermark

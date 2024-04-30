@@ -6,7 +6,7 @@ description: 'EC-Nummer: AT006000'
 
 Marktpartner-Details: [https://www.ebutilities.at/marktpartner/54](https://www.ebutilities.at/marktpartner/54)
 
-Die Vorarlberger Energienetze stellt ein Kundenportal zur Verfügung, bei welchem man sich zuerst registrieren muss. Nachdem man einen **PIN per Post** erhalten hat, kommt man damit in das eigentliche Portal. &#x20;
+Die Vorarlberger Energienetze stellt ein Kundenportal zur Verfügung, bei welchem man sich zuerst registrieren muss. Nachdem man einen **PIN per Post** erhalten hat, kann man damit im Portal auch die Verbrauchs- / Produktionsdaten sehen und weitere Funktionalitäten nutzen. &#x20;
 
 Hier geht es direkt zur Registrierung: [https://identity.vorarlbergnetz.at/Identity/RegisterUser](https://identity.vorarlbergnetz.at/Identity/RegisterUser)
 

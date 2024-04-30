@@ -1,3 +1,7 @@
+---
+description: 'EC-Nummer: AT001000'
+---
+
 # Wiener Netze
 
 Marktpartner-Details: [https://www.ebutilities.at/marktpartner/1](https://www.ebutilities.at/marktpartner/1)

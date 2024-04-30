@@ -1,3 +1,7 @@
+---
+description: 'EC-Nummer: AT004000'
+---
+
 # Salzburg Netz
 
 Marktpartner-Details: [https://www.ebutilities.at/marktpartner/27](https://www.ebutilities.at/marktpartner/27)

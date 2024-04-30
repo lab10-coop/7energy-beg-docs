@@ -1,3 +1,7 @@
+---
+description: 'EC-Nummer: AT007000'
+---
+
 # KNG – Kärnten Netz
 
 Marktpartner-Details: [https://www.ebutilities.at/marktpartner/59](https://www.ebutilities.at/marktpartner/59)

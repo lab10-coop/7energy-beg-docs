@@ -1,3 +1,7 @@
+---
+description: 'EC-Nummer: AT008470'
+---
+
 # Stadtwerke Hartberg
 
 Marktpartner-Details: [https://www.ebutilities.at/marktpartner/80](https://www.ebutilities.at/marktpartner/80)
