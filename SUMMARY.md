@@ -43,6 +43,7 @@
   * [Energie Klagenfurt](energiedatenfreigaben/netzbetreiber/energie-klagenfurt.md)
   * [Energienetze Steiermark](energiedatenfreigaben/netzbetreiber/energienetze-steiermark.md)
   * [Stromnetz Graz](energiedatenfreigaben/netzbetreiber/stromnetz-graz.md)
+  * [Feistritzwerke STEWEAG](energiedatenfreigaben/netzbetreiber/energie-klagenfurt-1.md)
   * [Stadtwerke Hartberg](energiedatenfreigaben/netzbetreiber/stadtwerke-hartberg.md)
   * [Elektrizitätswerk Fernitz Ing. Franz Purkarthofer](energiedatenfreigaben/netzbetreiber/elektrizitaetswerk-fernitz-ing.-franz-purkarthofer.md)
   * [Netz Burgenland](energiedatenfreigaben/netzbetreiber/netz-burgenland.md)
