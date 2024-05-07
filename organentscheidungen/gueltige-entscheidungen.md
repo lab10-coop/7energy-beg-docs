@@ -1,8 +1,8 @@
 ---
-description: Zusammenfassung der durch die Organe des Vereins getroffenen Entscheidungen.
+description: Zusammenfassung der durch die Organe des Vereins getroffenen Beschlüsse.
 ---
 
-# Gültige Entscheidungen
+# Gültige Beschlüsse
 
 ### Stromtarife und Servicegebühr
 

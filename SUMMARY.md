@@ -12,7 +12,7 @@
 
 ## Organentscheidungen
 
-* [Gültige Entscheidungen](organentscheidungen/gueltige-entscheidungen.md)
+* [Gültige Beschlüsse](organentscheidungen/gueltige-entscheidungen.md)
 * [Generalversammlungen](organentscheidungen/generalversammlungen/README.md)
   * [Protokoll AO GV - 20.11.2023](organentscheidungen/generalversammlungen/protokoll-ao-gv-20.11.2023.md)
   * [Protokoll AO GV - 20.06.2023](organentscheidungen/generalversammlungen/protokoll-ao-gv-20.06.2023.md)
