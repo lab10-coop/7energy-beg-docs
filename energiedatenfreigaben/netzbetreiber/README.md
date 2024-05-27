@@ -13,7 +13,7 @@ Die vollständige Liste aller Marktpartner ist unter [https://www.ebutilities.at
 9. [Energie Klagenfurt](energie-klagenfurt.md) (AT007100)
 10. [Energienetze Steiermark](energienetze-steiermark.md) (AT008000)
 11. [Stromnetz Graz](stromnetz-graz.md) (AT008100)
-12. [Feistritzwerke STEWEAG](energie-klagenfurt-1.md) (AT008130)
+12. [Feistritzwerke STEWEAG](feistritzwerke-steweag.md) (AT008130)
 13. [Stadtwerke Hartberg](stadtwerke-hartberg.md) (AT008470)
 14. [Elektrizitätswerk Fernitz Ing. Franz Purkarthofer](elektrizitaetswerk-fernitz-ing.-franz-purkarthofer.md) (AT008570)
 15. [Netz Burgenland](netz-burgenland.md) (AT009000)
