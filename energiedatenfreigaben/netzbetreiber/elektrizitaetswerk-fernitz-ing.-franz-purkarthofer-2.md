@@ -1,10 +1,10 @@
 ---
-description: 'EC-Nummer: AT002210'
+description: 'EC-Nummer: AT003310'
 ---
 
-# E-Werk Eisenhuber
+# E-Werk Perg
 
-Marktpartner-Details: [https://www.ebutilities.at/marktpartner/5](https://www.ebutilities.at/marktpartner/5)
+Marktpartner-Details: [https://www.ebutilities.at/marktpartner/18](https://www.ebutilities.at/marktpartner/18)
 
 Aktuell ist die Datenübertragung für Energiegemeinschaften noch nicht möglich. Wir sind aber mit dem Netzbetreiber in enger Abstimmung, damit auch dieses Netzgebiet unterstützt wird.&#x20;
 
