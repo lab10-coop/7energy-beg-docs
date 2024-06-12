@@ -9,6 +9,8 @@ Marktpartner-Details: [https://www.ebutilities.at/marktpartner/2](https://www.eb
 Bei Netz Niederösterreich muss man den Smart Meter im Webportal zuerst auf "kommunikativ" umstellen, bevor am die Datenfreigabe machen kann. Wer das schon gemacht hat, kann direkt zu [Punkt 5](netz-niederoesterreich.md#5.-datenfreigabe) gehen.&#x20;
 
 {% embed url="https://www.netz-noe.at/Netz-Niederosterreich/Smart-Meter/Webportal-(1).aspx" %}
+Smart Meter Webportal - Netz NÖ
+{% endembed %}
 
 ### 1. Schritt: Smart Meter Webportal öffnen&#x20;
 

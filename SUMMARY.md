@@ -35,7 +35,7 @@
   * [Wiener Netze](energiedatenfreigaben/netzbetreiber/wiener-netze.md)
   * [Netz Niederösterreich](energiedatenfreigaben/netzbetreiber/netz-niederoesterreich.md)
   * [Stadtwerke Amstetten](energiedatenfreigaben/netzbetreiber/stadtwerke-amstetten.md)
-  * [E-Werk Eisenhuber](energiedatenfreigaben/netzbetreiber/e-werk-eisenhuber.md)
+  * [Elektrizitätswerke Eisenhuber](energiedatenfreigaben/netzbetreiber/elektrizitaetswerke-eisenhuber.md)
   * [Netz Oberösterreich](energiedatenfreigaben/netzbetreiber/netz-oberoesterreich.md)
   * [Linz Netz](energiedatenfreigaben/netzbetreiber/linz-netz.md)
   * [E-Werk Wels eww](energiedatenfreigaben/netzbetreiber/e-werk-wels-eww.md)

@@ -5,7 +5,7 @@ Die vollständige Liste aller Marktpartner ist unter [https://www.ebutilities.at
 1. [Wiener Netze](wiener-netze.md) (AT001000)
 2. [Netz Niederösterreich](netz-niederoesterreich.md) (AT002000)
 3. [Stadtwerke Amstetten](stadtwerke-amstetten.md) (AT002110)
-4. [E-Werk Eisenhuber](e-werk-eisenhuber.md) (AT002210)
+4. [Elektrizitätswerke Eisenhuber](elektrizitaetswerke-eisenhuber.md) (AT002210)
 5. [Netz Oberösterreich](netz-oberoesterreich.md) (AT003000)
 6. [Linz Netz](linz-netz.md) (AT003100)
 7. [E-Werk Wels eww](e-werk-wels-eww.md) (AT003300)
