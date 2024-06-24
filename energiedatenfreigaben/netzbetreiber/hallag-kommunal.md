@@ -18,15 +18,15 @@ Kundenportal der HALLAG
 
 ### 1. Schritt: Smart Meter auf Viertelstundenübertragung umstellen &#x20;
 
-Nach der Neureistrierung im Kundenportal und dem Login ist es unbedingt erforderlich, daß die Teilnehmer beim Menüpunkt „Smart Meter“ den Zähler auf Viertelstundenübertragung (Lastprofil 15min) umstellen (Ändern). (Dies betrifft auch Zähler bei Energieerzeugungsanalgen im Falle von Teilnehmer die z.B. mittels PV-Anlage Energie einspeisen). Bis die Umstellung der Zähler wirksam wird kann es lt. HALLAG 2 Tage dauern.
+Nach der Neureistrierung im Kundenportal und dem Login ist es unbedingt erforderlich, daß du beim Menüpunkt „Smart Meter“ den Zähler auf Viertelstundenübertragung (Lastprofil 15min) umstellst (Ändern). (Dies betrifft auch Zähler bei Energieerzeugungsanalgen im Falle von Teilnehmer die z.B. mittels PV-Anlage Energie einspeisen). Bis die Umstellung der Zähler wirksam wird kann es lt. HALLAG 2 Tage dauern.
 
 <figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption><p>Gesamtsicht auf des Kundenportal der HALLAG (noch ohne Datenfreigabe Option)</p></figcaption></figure>
 
 ### 2. Schritt: Energiedatenfreigabe&#x20;
 
-Wenn alle Voraussetzungen gegeben sind, dann melden wir das Mitglied für die Teilnahme an der Energiegemeinschaft an und schicken eine E-Mail, dass wir eine Datenfreigabe benötigen.&#x20;
+Sobald alle Voraussetzungen erfüllt sind, melden wir deine Zählpunkte für die Teilnahme an der Energiegemeinschaft an und schicken eine E-Mail, dass wir eine Datenfreigabe benötigen.&#x20;
 
-Im Kundenportal der HALLAG wird dann ein weiterer Menüpunkt "Datenfreigabe" angezeigt und hier muss das Mitglied **innerhalb von 3 Tagen die Zustimmung erteilen**.&#x20;
+Im Kundenportal der HALLAG wird dann ein weiterer Menüpunkt "Datenfreigabe" angezeigt und hier muss du **innerhalb von 3 Tagen die Zustimmung erteilen**.&#x20;
 
 <div align="left">
 
@@ -36,4 +36,4 @@ Im Kundenportal der HALLAG wird dann ein weiterer Menüpunkt "Datenfreigabe" ang
 
 ### 3. Schritt: Info an 7Energy
 
-Die 7Energy - BEG sollte nun im Hintergrund die Meldung bekommen, dass die Datenfreigabe erfolgt ist. Wenn Du aber auf Nummer Sicher gehen willst, dann schreib uns bitte auch noch eine E-Mail an `office@7energy.at` damit wir aktiv werden können, sollte etwas bei der Datenübertragung schief gegangen sein.
+Die 7Energy - BEG sollte nun im Hintergrund die Meldung bekommen, dass die Datenfreigabe erfolgt ist. Wenn du aber auf Nummer Sicher gehen willst, dann schreib uns bitte auch noch eine E-Mail an `office@7energy.at` damit wir aktiv werden können, sollte etwas bei der Datenübertragung schief gegangen sein.
