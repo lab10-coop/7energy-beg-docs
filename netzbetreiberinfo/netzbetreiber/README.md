@@ -1,11 +1,15 @@
-# Netzbetreiber
+# Netzbetreiber Datenfreigabe
 
-Die vollständige Liste aller Marktpartner ist unter [https://www.ebutilities.at/marktpartner](https://www.ebutilities.at/marktpartner) aufzurufen. Dort finden sich auch die für die Marktkommunikation relevanten Marktpartner-IDs.&#x20;
+Damit uns die Daten deines Smart Meters vom Netzbetreiber übergeben werden, muss du uns eine Datenfreigabe erteilen.&#x20;
+
+Jeder Netzbetreiber ist bei der Weiterentwicklung des eigenen IT-Systems dafür unterschiedlich weit und deshalb arbeiten wir daran für jeden Netzbetreiber hier eine kleine Hilfestellung zur Datenfreigabe zur Verfügung zu stellen.&#x20;
+
+Folgend die Liste mit Netzbetreibern, wo wir auch Mitglieder haben:
 
 1. [Wiener Netze](wiener-netze.md) (AT001000)
 2. [Netz Niederösterreich](netz-niederoesterreich.md) (AT002000)
 3. [Stadtwerke Amstetten](stadtwerke-amstetten.md) (AT002110)
-4. [Elektrizitätswerke Eisenhuber](elektrizitaetswerke-eisenhuber.md) (AT002210)
+4. [Elektrizitätswerke Eisenhuber](elektrizitatswerke-eisenhuber.md) (AT002210)
 5. [Netz Oberösterreich](netz-oberoesterreich.md) (AT003000)
 6. [Linz Netz](linz-netz.md) (AT003100)
 7. [E-Werk Wels eww](e-werk-wels-eww.md) (AT003300)
@@ -24,8 +28,8 @@ Die vollständige Liste aller Marktpartner ist unter [https://www.ebutilities.at
 20. [Feistritzwerke STEWEAG](feistritzwerke-steweag.md) (AT008130)
 21. [Stadtwerke Judenburg](stadtwerke-judenburg.md) (AT008160)
 22. [Stadtwerke Kapfenberg](stadtwerke-kapfenberg.md) (AT008170)
-23. [Stadtwerke Mürzzuschlag](stadtwerke-muerzzuschlag.md) (AT008190)
-24. [E-Werk Franz Gösting](e-werk-franz-goesting.md) (AT008210)
+23. [Stadtwerke Mürzzuschlag](stadtwerke-murzzuschlag.md) (AT008190)
+24. [E-Werk Franz Gösting](e-werk-franz-gosting.md) (AT008210)
 25. [Bad Gleichenberger Energie](elektrizitaetswerk-fernitz-ing.-franz-purkarthofer.md) (AT008310)
 26. [EVU Niklasdorf](evu-niklasdorf.md) (AT008330)
 27. [Stadtwerke Hartberg](stadtwerke-hartberg.md) (AT008470)
@@ -36,4 +40,6 @@ Die vollständige Liste aller Marktpartner ist unter [https://www.ebutilities.at
 32. [E-Werk Ebner](e-werk-ebner.md) (AT008730)
 33. [Feistritzthaler E-Werk Großwilfersdorf](feistritzthaler-e-werk-grosswilfersdorf.md) (AT008770)
 34. [Netz Burgenland](netz-burgenland.md) (AT009000)
+
+Die vollständige Liste aller Marktpartner ist unter [https://www.ebutilities.at/marktpartner](https://www.ebutilities.at/marktpartner) aufzurufen. Dort finden sich auch die für die Marktkommunikation relevanten Marktpartner-IDs.&#x20;
 
