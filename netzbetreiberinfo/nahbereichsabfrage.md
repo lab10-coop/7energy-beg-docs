@@ -10,7 +10,7 @@ Die Umsetzung ist unterschiedlich gestaltet und damit man weniger suchen muss, w
 
 #### Netz Niederösterreich (AT002000)
 
-
+Nahbereichsabfrage über den Zählpunkt: [https://www.netz-noe.at/SpecialPages/EEGBeauskunftung.aspx](https://www.netz-noe.at/SpecialPages/EEGBeauskunftung.aspx)
 
 #### Stadtwerke Amstetten (AT002110)
 
@@ -42,7 +42,7 @@ Die Umsetzung ist unterschiedlich gestaltet und damit man weniger suchen muss, w
 
 #### Salzburg Netz (AT004000)
 
-
+Grafische Nahbereichsabfrage über die Adresse: [https://www.salzburgnetz.at/stromnetz/energiegemeinschaften/erneuerbare-energie-gemeinschaften.html#woisteegmoeglich](https://www.salzburgnetz.at/stromnetz/energiegemeinschaften/erneuerbare-energie-gemeinschaften.html#woisteegmoeglich)
 
 #### TINETZ - Tiroler Netze (AT005000)
 
@@ -70,7 +70,7 @@ Die Umsetzung ist unterschiedlich gestaltet und damit man weniger suchen muss, w
 
 #### Energienetze Steiermark (AT008000)
 
-Nahbereichsabfrage: [https://portal.e-netze.at/nahbereich](https://portal.e-netze.at/nahbereich)
+Nahbereichsabfrage über bis zu 50 Zählpunkte: [https://portal.e-netze.at/nahbereich](https://portal.e-netze.at/nahbereich)
 
 #### Stromnetz Graz (AT008100)
 
