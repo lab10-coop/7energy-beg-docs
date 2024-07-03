@@ -30,7 +30,7 @@
 
 ## Netzbetreiberinfo
 
-* [Nahbereichsabfrage (Regional/Lokal)](netzbetreiberinfo/allgemeine-erlaeuterungen.md)
+* [Nahbereichsabfrage (Regional/Lokal)](netzbetreiberinfo/nahbereichsabfrage.md)
 * [Netzbetreiber Datenfreigabe](netzbetreiberinfo/netzbetreiber/README.md)
   * [Wiener Netze](netzbetreiberinfo/netzbetreiber/wiener-netze.md)
   * [Netz Niederösterreich](netzbetreiberinfo/netzbetreiber/netz-niederoesterreich.md)
