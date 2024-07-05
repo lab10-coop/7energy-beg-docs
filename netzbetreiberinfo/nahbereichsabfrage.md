@@ -10,9 +10,7 @@ Quick Check - Best Practice 🏅
 
 #### Wiener Netze (AT001000)
 
-Die Nahbereichsabfrage heißt bei den Wiener Netzen "Beauskunftungskennzahl" und besteht aus 12-Stellen. Man benötigt einen Browser, der keine Cookieanfragen blockt wie zum Beispiel Brave, die Kundennummer und den Zählpunkt, um herauszufinden, ob man in einer regionalen EEG (Übereinstimmung der ersten 6-Stellen) oder einer lokalen EEG (Übereinstimmung aller 12-Stellen) zusammen mit anderen teilnehmen kann.&#x20;
-
-[Link zur Webseite](https://www.wienernetze.at/beauskunftungskennzahl-abfragen)
+Die Nahbereichsabfrage heißt bei den Wiener Netzen "Beauskunftungskennzahl" und besteht aus 12-Stellen. Man benötigt einen Browser, der keine Cookieanfragen blockt wie zum Beispiel Brave, die Kundennummer und den Zählpunkt, um herauszufinden, ob man in einer regionalen EEG (Übereinstimmung der ersten 6-Stellen) oder einer lokalen EEG (Übereinstimmung aller 12-Stellen) zusammen mit anderen teilnehmen kann. [Link zur Webseite](https://www.wienernetze.at/beauskunftungskennzahl-abfragen)
 
 #### Netz Niederösterreich (AT002000) 🏅&#x20;
 
