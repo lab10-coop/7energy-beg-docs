@@ -4,13 +4,17 @@ Jeder Netzbetreiber muss eine Möglichkeit bieten, damit man herausfinden kann, 
 
 Die Umsetzung ist unterschiedlich gestaltet und damit man weniger suchen muss, wollen wir hier eine Liste von Beschreibungen und - sofern vorhanden - Links zu den Webseiten der Netzbetreiber zur Verfügung stellen.&#x20;
 
+Grafisch - Best Practice 🏆
+
+Quick Check - Best Practice 🏅
+
 #### Wiener Netze (AT001000)
 
 Die Nahbereichsabfrage heißt bei den Wiener Netzen "Beauskunftungskennzahl" und besteht aus 12-Stellen. Man benötigt einen Browser, der keine Cookieanfragen blockt wie zum Beispiel Brave, die Kundennummer und den Zählpunkt, um herauszufinden, ob man in einer regionalen EEG (Übereinstimmung der ersten 6-Stellen) oder einer lokalen EEG (Übereinstimmung aller 12-Stellen) zusammen mit anderen teilnehmen kann.&#x20;
 
 [Link zur Webseite](https://www.wienernetze.at/beauskunftungskennzahl-abfragen)
 
-#### Netz Niederösterreich (AT002000)
+#### Netz Niederösterreich (AT002000) 🏅&#x20;
 
 Nahbereichsabfrage für einen Zählpunkt: [Link zur Webseite](https://www.netz-noe.at/SpecialPages/EEGBeauskunftung.aspx)&#x20;
 
@@ -22,11 +26,11 @@ Nahbereichsabfrage für einen Zählpunkt: [Link zur Webseite](https://www.netz-n
 
 
 
-#### Netz Oberösterreich (AT003000)
+#### Netz Oberösterreich (AT003000) 🏆
 
 Nahbereichsabfrage mit Login-Notwendigkeit: [Link zur Webseite](https://netto.netzooe.at/netto/connectClient)&#x20;
 
-#### Linz Netz (AT003100)
+#### Linz Netz (AT003100) 🏆
 
 Nahbereichsabfrage für einen Zählpunkt: [Link zur Webseite](https://services.linznetz.at/energiegemeinschaften/?nav=%2Fde%2Flinz\_netz\_website%2Fstrom%2Fmein\_stromanschluss%2Ferzeugungsanlage\_anschliessen%2Fauskunft\_zum\_versorgungsbereich%2Fauskunft\_zum\_versorgungsbereich.xhtml)&#x20;
 
@@ -42,11 +46,11 @@ Nahbereichsabfrage für einen Zählpunkt: [Link zur Webseite](https://services.l
 
 
 
-#### Salzburg Netz (AT004000)
+#### Salzburg Netz (AT004000) 🏆🏅
 
 Grafische Nahbereichsabfrage über die Adresse: [Link zur Webseite](https://www.salzburgnetz.at/stromnetz/energiegemeinschaften/erneuerbare-energie-gemeinschaften.html#woisteegmoeglich)&#x20;
 
-#### TINETZ - Tiroler Netze (AT005000)
+#### TINETZ - Tiroler Netze (AT005000) 🏅
 
 Nahbereichsabfrage von bis zu 20 Zählpunkten: [Link zur Webseite](https://www.tinetz.at/infobereich/energiegemeinschaften/auskunft-nahbereich/)
 
@@ -58,19 +62,19 @@ Nahbereichsabfrage von bis zu 20 Zählpunkten: [Link zur Webseite](https://www.t
 
 
 
-#### Vorarlberger Energienetze (AT006000)
+#### Vorarlberger Energienetze (AT006000) 🏆
 
 Grafische Nahbereichsabfrage mit Login-Notwendigkeit: [Link zur Webseite](https://energiegemeinschaften.vorarlbergnetz.at/eeg\_auskunft/)
 
-#### Kärnten Netz (KNG) (AT007000)
+#### Kärnten Netz (KNG) (AT007000) 🏆
 
 Grafische Nahbereichsabfrage mit Login-Notwendigkeit: [Link zur Webseite](https://kaerntennetz.at/erneuerbare-energiegemeinschaften-eeg.htm)
 
-#### Energie Klagenfurt (AT007100)
+#### Energie Klagenfurt (AT007100) 🏆
 
 Grafischen Nahbereichsabfrage über die Adresse: [Link zur Webseite](https://app.gitbook.com/u/ZuqzEqEeDrcdATHc5uv5drYzb852)
 
-#### Energienetze Steiermark (AT008000)
+#### Energienetze Steiermark (AT008000) 🏅
 
 Nahbereichsabfrage über bis zu 50 Zählpunkte: [Link zur Webseite](https://portal.e-netze.at/nahbereich)&#x20;
 
@@ -138,6 +142,6 @@ Nahbereichsabfrage über bis zu 50 Zählpunkte: [Link zur Webseite](https://port
 
 
 
-#### Netz Burgenland (AT009000)
+#### Netz Burgenland (AT009000) 🏅
 
 Nahbereichsabfrage von bis zu 6 Zählpunkten: [Link zur Webseite](https://analytics.netzburgenland.at/eeg-nahbereichsabfrage2)
