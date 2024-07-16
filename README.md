@@ -44,7 +44,7 @@ Die Pioniere an vorderster Front 😅 machen ihrer Frustration über die Komplex
 
 <figure><img src=".gitbook/assets/1663224966838.jpeg" alt=""><figcaption><p>Gewinner des Austrian Blockchain Award (<a href="https://opensea.io/assets/matic/0x5400bfc0499c5ccbe5dab9db7d587cf575e51cd1/12">NFT Certificate</a>)</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/ETHPrague (1).png" alt=""><figcaption><p>Präsentation von 7Energy und wie wir eine Solarpunk Zukunft erreichen können auf der ETHPrague (<a href="https://youtu.be/UtBtGACPv1E">Youtube</a>)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/ETHPrague (1).png" alt=""><figcaption><p>Präsentation von 7Energy und wie wir eine Solarpunk Zukunft erreichen können auf der ETHPrague (<a href="https://www.youtube.com/watch?v=XEGjJ2iWlSE">Youtube</a>)</p></figcaption></figure>
 
 ## Entwicklung bis Ende 2022&#x20;
 

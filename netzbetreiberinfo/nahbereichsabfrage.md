@@ -8,13 +8,16 @@ Grafisch - Best Practice 🏆
 
 Quick Check - Best Practice 🏅
 
-#### Wiener Netze (AT001000)
+Schlechte Lösungen 🍋
 
-Die Nahbereichsabfrage heißt bei den Wiener Netzen "Beauskunftungskennzahl" und besteht aus 12-Stellen. Man benötigt einen Browser, der keine Cookieanfragen blockt wie zum Beispiel Brave, die Kundennummer und den Zählpunkt, um herauszufinden, ob man in einer regionalen EEG (Übereinstimmung der ersten 6-Stellen) oder einer lokalen EEG (Übereinstimmung aller 12-Stellen) zusammen mit anderen teilnehmen kann. [Link zur Webseite](https://www.wienernetze.at/beauskunftungskennzahl-abfragen)
+#### Wiener Netze (AT001000)  🍋
+
+Die Nahbereichsabfrage heißt bei den Wiener Netzen "Beauskunftungskennzahl" und besteht aus 12-Stellen. Man benötigt einen Browser, der keine Cookieanfragen blockt wie zum Beispiel Brave, die _Kundennummer_ (!!) und den _Zählpunkt_, um herauszufinden, ob man in einer regionalen EEG (Übereinstimmung der ersten 6-Stellen) oder einer lokalen EEG (Übereinstimmung aller 12-Stellen) zusammen mit anderen teilnehmen kann. [Link zur Webseite](https://www.wienernetze.at/beauskunftungskennzahl-abfragen)\
+Besonderheit: extra kompliziert durch die Abfrage der Kundennummer bei den Wiener Netzen
 
 #### Netz Niederösterreich (AT002000) 🏅&#x20;
 
-Nahbereichsabfrage für einen Zählpunkt: [Link zur Webseite](https://www.netz-noe.at/SpecialPages/EEGBeauskunftung.aspx)&#x20;
+Nahbereichsabfrage für einen Zählpunkt (unter Eingabe der letzten 9-Stellen): [Link zur Webseite](https://www.netz-noe.at/SpecialPages/EEGBeauskunftung.aspx)&#x20;
 
 #### Stadtwerke Amstetten (AT002110)
 
@@ -26,11 +29,13 @@ Nahbereichsabfrage für einen Zählpunkt: [Link zur Webseite](https://www.netz-n
 
 #### Netz Oberösterreich (AT003000) 🏆
 
-Nahbereichsabfrage mit Login-Notwendigkeit: [Link zur Webseite](https://netto.netzooe.at/netto/connectClient)&#x20;
+Nahbereichsabfrage mit Login-Notwendigkeit, Adresseingabe und PDF-Download: [Link zur Webseite](https://netto.netzooe.at/netto/connectClient) \
+Besonderheiten: Im bereitgestellten PDF kann man lokal/regional gut abschätzen. Aufwendige manuelle Prozedur für jede einzelne Adresse.
 
-#### Linz Netz (AT003100) 🏆
+#### Linz Netz (AT003100) 🏅
 
-Nahbereichsabfrage für einen Zählpunkt: [Link zur Webseite](https://services.linznetz.at/energiegemeinschaften/?nav=%2Fde%2Flinz\_netz\_website%2Fstrom%2Fmein\_stromanschluss%2Ferzeugungsanlage\_anschliessen%2Fauskunft\_zum\_versorgungsbereich%2Fauskunft\_zum\_versorgungsbereich.xhtml)&#x20;
+Nahbereichsabfrage für einen Zählpunkt (unter Eingabe der letzten 20-Stellen): [Link zur Webseite](https://services.linznetz.at/energiegemeinschaften/?nav=%2Fde%2Flinz\_netz\_website%2Fstrom%2Fmein\_stromanschluss%2Ferzeugungsanlage\_anschliessen%2Fauskunft\_zum\_versorgungsbereich%2Fauskunft\_zum\_versorgungsbereich.xhtml) \
+Besonderheit: Einfach zu bedienen. Bei mehreren Zählpunkten mühsam.&#x20;
 
 #### E-Werk Wels eww (AT003300)
 
@@ -142,4 +147,5 @@ Nahbereichsabfrage über bis zu 50 Zählpunkte: [Link zur Webseite](https://port
 
 #### Netz Burgenland (AT009000) 🏅
 
-Nahbereichsabfrage von bis zu 6 Zählpunkten: [Link zur Webseite](https://analytics.netzburgenland.at/eeg-nahbereichsabfrage2)
+Nahbereichsabfrage von bis zu 6 Zählpunkten: [Link zur Webseite](https://analytics.netzburgenland.at/eeg-nahbereichsabfrage2)\
+Besonderheit: Angabe ob der Zählpunkt zuverlässig Daten liefert
