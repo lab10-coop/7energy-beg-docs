@@ -20,6 +20,10 @@ Strauchergasse 13, 8020 Graz, Austria
 
 EE30 7777 0001 3838 3758
 
+#### Land
+
+Estland
+
 #### BIC
 
 LHVBEE22
