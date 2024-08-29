@@ -17,7 +17,7 @@ Besonderheit: extra kompliziert durch die Abfrage der Kundennummer bei den Wiene
 
 #### Netz Niederösterreich (AT002000) 🏅&#x20;
 
-Nahbereichsabfrage für einen Zählpunkt (unter Eingabe der letzten 9-Stellen): [Link zur Webseite](https://www.netz-noe.at/SpecialPages/EEGBeauskunftung.aspx)&#x20;
+Nahbereichsabfrage für einen Zählpunkt (mit Eingabe der letzten 9-Stellen): [Link zur Webseite](https://www.netz-noe.at/SpecialPages/EEGBeauskunftung.aspx)&#x20;
 
 #### Stadtwerke Amstetten (AT002110)
 
@@ -34,7 +34,7 @@ Besonderheiten: Im bereitgestellten PDF kann man lokal/regional gut abschätzen.
 
 #### Linz Netz (AT003100) 🏅
 
-Nahbereichsabfrage für einen Zählpunkt (unter Eingabe der letzten 20-Stellen): [Link zur Webseite](https://services.linznetz.at/energiegemeinschaften/?nav=%2Fde%2Flinz\_netz\_website%2Fstrom%2Fmein\_stromanschluss%2Ferzeugungsanlage\_anschliessen%2Fauskunft\_zum\_versorgungsbereich%2Fauskunft\_zum\_versorgungsbereich.xhtml) \
+Nahbereichsabfrage für einen Zählpunkt (mit Eingabe der letzten 20-Stellen): [Link zur Webseite](https://services.linznetz.at/energiegemeinschaften/?nav=%2Fde%2Flinz\_netz\_website%2Fstrom%2Fmein\_stromanschluss%2Ferzeugungsanlage\_anschliessen%2Fauskunft\_zum\_versorgungsbereich%2Fauskunft\_zum\_versorgungsbereich.xhtml) \
 Besonderheit: Einfach zu bedienen. Bei mehreren Zählpunkten mühsam.&#x20;
 
 #### E-Werk Wels eww (AT003300)
@@ -51,7 +51,7 @@ Besonderheit: Einfach zu bedienen. Bei mehreren Zählpunkten mühsam.&#x20;
 
 #### Salzburg Netz (AT004000) 🏆🏅
 
-Grafische Nahbereichsabfrage über die Adresse: [Link zur Webseite](https://www.salzburgnetz.at/stromnetz/energiegemeinschaften/erneuerbare-energie-gemeinschaften.html#woisteegmoeglich)&#x20;
+Grafische Nahbereichsabfrage über die Adresse und Nahbereichsabfrage für einen Zählpunkt (mit Eingabe der letzten 25-Stellen): [Link zur Webseite](https://www.salzburgnetz.at/stromnetz/energiegemeinschaften/erneuerbare-energie-gemeinschaften.html#woisteegmoeglich)&#x20;
 
 #### TINETZ - Tiroler Netze (AT005000) 🏅
 
