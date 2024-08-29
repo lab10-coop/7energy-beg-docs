@@ -75,23 +75,23 @@ Grafische Nahbereichsabfrage mit Login-Notwendigkeit: [Link zur Webseite](https:
 
 #### Energie Klagenfurt (AT007100) 🏆
 
-Grafischen Nahbereichsabfrage über die Adresse: [Link zur Webseite](https://app.gitbook.com/u/ZuqzEqEeDrcdATHc5uv5drYzb852)
+Grafischen Nahbereichsabfrage über die Adresse: [Link zur Webseite](https://gis-stw-at.maps.arcgis.com/apps/instant/lookup/index.html?appid=8bc6e3dbaa784646a7d4ecbe6daa5b68\&find=B70d%252C%25209020%252C%2520Klagenfurt%2520am%2520W%25C3%25B6rthersee%252C%2520Klagenfurt%252C%2520K%25C3%25A4rnten)
 
 #### Energienetze Steiermark (AT008000) 🏅
 
 Nahbereichsabfrage über bis zu 50 Zählpunkte: [Link zur Webseite](https://portal.e-netze.at/nahbereich)&#x20;
 
-#### Stromnetz Graz (AT008100)
+#### Stromnetz Graz (AT008100) 🏆
 
-
+Grafischen Nahbereichsabfrage über die Adresse: [Link zur Webseite](https://www.stromnetz-graz.at/sgg/energiegemeinschaften/eeg-erneuerbare-energie-gemeinschaften/nahbereichsauskunft)
 
 #### E-Werk der Stadtwerke Kindberg (AT008110)
 
 
 
-#### Feistritzwerke STEWEAG (AT008130)
+#### Feistritzwerke STEWEAG (AT008130) 🏅
 
-
+Nahbereichsabfrage über bis zu 25 Zählpunkte: [Link zur Webseite](https://kundenportal.feistritzwerke.at/nahbereichsabfrage)&#x20;
 
 #### Stadtwerke Judenburg (AT008160)
 
@@ -123,19 +123,19 @@ Nahbereichsabfrage über bis zu 50 Zählpunkte: [Link zur Webseite](https://port
 
 #### E-Werk Fernitz Ing. Franz Purkarthofer (AT008570)
 
-
+Nachfrage via E-Mail mit den Zählpunktsnummern
 
 #### Kiendler Vulkanlandstrom (AT008580)
 
-
+Nachfrage via E-Mail mit den Zählpunktsnummern
 
 #### P.K. Energieversorgungs (AT008630)
 
-
+Nachfrage via E-Mail mit den Zählpunktsnummern
 
 #### E-Werk Mariahof (AT008650)
 
-
+Nachfrage via E-Mail mit den Zählpunktsnummern
 
 #### E-Werk Ebner (AT008730)
 
