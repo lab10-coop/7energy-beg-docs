@@ -21,11 +21,13 @@ Nahbereichsabfrage für einen Zählpunkt (mit Eingabe der letzten 9-Stellen): [L
 
 #### Stadtwerke Amstetten (AT002110)
 
-
+Nachfrage via E-Mail mit den Zählpunktsnummern\
+[Kontaktseite](https://stadtwerke.amstetten.at/kontakt)
 
 #### Elektrizitätswerke Eisenhuber (AT002210)
 
-
+Nachfrage via E-Mail mit den Zählpunktsnummern\
+[Kontaktseite](https://www.eisenhuber.com/%C3%BCber-uns/kontakt/)
 
 #### Netz Oberösterreich (AT003000) 🏆
 
@@ -39,15 +41,18 @@ Besonderheit: Einfach zu bedienen. Bei mehreren Zählpunkten mühsam.&#x20;
 
 #### E-Werk Wels eww (AT003300)
 
-
+Nachfrage via E-Mail mit den Zählpunktsnummern\
+[Kontaktseite](https://www.eww.at/ueber-uns/kontakt)
 
 #### E-Werk Perg (AT003310)
 
-
+Nachfrage via E-Mail mit den Zählpunktsnummern\
+[Kontaktseite](https://www.ewerk-perg.at/mein-e-werk/)
 
 #### Karlstrom (AT003470)
 
-
+Nachfrage via E-Mail mit den Zählpunktsnummern\
+[Kontaktseite](http://www.karlstrom.at/seiten/ueber\_uns/kontakt.html)
 
 #### Salzburg Netz (AT004000) 🏆🏅
 
@@ -59,11 +64,13 @@ Nahbereichsabfrage von bis zu 20 Zählpunkten: [Link zur Webseite](https://www.t
 
 #### Innsbrucker Kommunalbetriebe (IKB) (AT005100)
 
-
+Nachfrage via E-Mail mit den Zählpunktsnummern\
+[Kontaktseite](https://www.ikb.at/energie)
 
 #### HALLAG Kommunal (AT005120)
 
-
+Nachfrage via E-Mail mit den Zählpunktsnummern\
+[Kontaktseite](https://www.hall.ag/de/Oeffnung-Kontakt)
 
 #### Vorarlberger Energienetze (AT006000) 🏆
 
@@ -87,7 +94,8 @@ Grafischen Nahbereichsabfrage über die Adresse: [Link zur Webseite](https://www
 
 #### E-Werk der Stadtwerke Kindberg (AT008110)
 
-
+Nachfrage via E-Mail mit den Zählpunktsnummern\
+[Kontaktseite](https://ewerk-kindberg.at/hilfe-kontakt/)
 
 #### Feistritzwerke STEWEAG (AT008130) 🏅
 
@@ -95,55 +103,68 @@ Nahbereichsabfrage über bis zu 25 Zählpunkte: [Link zur Webseite](https://kund
 
 #### Stadtwerke Judenburg (AT008160)
 
-
+Nachfrage via E-Mail mit den Zählpunktsnummern\
+[Kontaktseite](https://stadtwerke.co.at/kontakt/)
 
 #### Stadtwerke Kapfenberg (AT008170)
 
-
+Nachfrage via E-Mail mit den Zählpunktsnummern\
+[Kontaktseite](https://www.stadtwerke-kapfenberg.at/kontakt.html)
 
 #### Stadtwerke Mürzzuschlag (AT008190)
 
-
+Nachfrage via E-Mail mit den Zählpunktsnummern\
+[Kontaktseite](https://www.stadtwerke-mz.at/kontakt/)
 
 #### E-Werk Franz Gösting (AT008210)
 
-
+Nachfrage via E-Mail mit den Zählpunktsnummern\
+[Kontaktseite](https://www.ewg.at/kontakt/)
 
 #### Bad Gleichenberger Energie (AT008310)
 
-
+Nachfrage via E-Mail mit den Zählpunktsnummern\
+[Kontaktseite](https://bg-energie.at/)
 
 #### EVU Niklasdorf (AT008330)
 
-
+Nachfrage via E-Mail mit den Zählpunktsnummern\
+[Kontaktseite](https://www.niklasdorf.at/evu/)
 
 #### Stadtwerke Hartberg (AT008470)
 
-
+Nachfrage via E-Mail mit den Zählpunktsnummern\
+[Kontaktseite](https://www.stadtwerke-hartberg.at/energie/kontakt/)
 
 #### E-Werk Fernitz Ing. Franz Purkarthofer (AT008570)
 
-Nachfrage via E-Mail mit den Zählpunktsnummern
+Nachfrage via E-Mail mit den Zählpunktsnummern\
+[Kontaktseite](https://ewerkfernitz.at/kontakt/e-werk-fernitz/)
 
 #### Kiendler Vulkanlandstrom (AT008580)
 
-Nachfrage via E-Mail mit den Zählpunktsnummern
+Nachfrage via E-Mail mit den Zählpunktsnummern\
+[Kontaktseite](https://www.kiendler.at/)
 
 #### P.K. Energieversorgungs (AT008630)
 
-Nachfrage via E-Mail mit den Zählpunktsnummern
+Nachfrage via E-Mail mit den Zählpunktsnummern\
+[Kontaktseite](https://www.kiendler.at/)
 
 #### E-Werk Mariahof (AT008650)
 
-Nachfrage via E-Mail mit den Zählpunktsnummern
+Nachfrage via E-Mail mit den Zählpunktsnummern\
+[Kontaktseite](http://ewerk-mariahof.at/Kontakt.php)
 
 #### E-Werk Ebner (AT008730)
 
-
+Nachfrage via E-Mail mit den Zählpunktsnummern\
+[Kontaktseite](http://www.ewebner.at/)
 
 #### Feistritzthaler E-Werk Großwilfersdorf (AT008770)
 
-
+Nachfrage via E-Mail mit den Zählpunktsnummern\
+[Kontaktseite](https://www.ewerk-growi.at/kontakt/index)
 
 #### Netz Burgenland (AT009000) 🏅
 
