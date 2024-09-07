@@ -8,7 +8,7 @@ Grafisch - Best Practice 🏆
 
 Quick Check - Best Practice 🏅
 
-Verbesserungswürdige Lösungen 🍋
+Schlechte Lösungen 🍋
 
 #### Wiener Netze (AT001000)  🍋
 
