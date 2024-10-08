@@ -18,7 +18,7 @@ Der Stromtarif für Einspeisung und Verbrauch richtet sich nach dem [E-Control M
 
 ### Mehrfachteilnahme
 
-Anfang April 2024 hat uns die anstehende "Mehrfachteilnahme" beschäftigt und wir haben im [Vorstandsmeeting am 02.04.2024](../vorstandsmeetings/protokoll-vorstandsmeeting-02.04.2024.md) entschieden, dass man vorläufig nur zu 100% beitreten kann.  Nach einer Testphase mit bereits aktiven Mitgliedern wird die Mehrfachteilnahme im Zusammenspiel mit kooperierenden EEGs und GEAs über ein gemeinsames IT-System ermöglicht.&#x20;
+Anfang April 2024 hat uns die anstehende "Mehrfachteilnahme" beschäftigt und wir haben im [Vorstandsmeeting am 02.04.2024](../vorstandsmeetings/protokoll-vorstandsmeeting-02.04.2024-2.md) entschieden, dass man vorläufig nur zu 100% beitreten kann.  Nach einer Testphase mit bereits aktiven Mitgliedern wird die Mehrfachteilnahme im Zusammenspiel mit kooperierenden EEGs und GEAs über ein gemeinsames IT-System ermöglicht.&#x20;
 
 ### Mitgliedsbeitrag
 

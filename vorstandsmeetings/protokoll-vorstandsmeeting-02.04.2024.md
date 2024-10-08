@@ -1,8 +1,8 @@
-# Protokoll Vorstandsmeeting - 02.04.2024
+# Protokoll Vorstandsmeeting - 16.09.2024
 
 Ort: Vereinssitz, Strauchergasse 13, 8020 Graz
 
-Datum: 02.04.2024, 13:30 - 16:00
+Datum: 16.09.2024, 13:00 - 16:30
 
 Anwesende: Thomas Zeinzinger, Peter Grassberger&#x20;
 
@@ -10,63 +10,69 @@ Beschlussfähigkeit: 2/2
 
 ## Agenda
 
-1. [Mehrfachteilnahme - was ist das, wie funktioniert sie und welche Auswirkungen sind zu erwarten?](protokoll-vorstandsmeeting-02.04.2024.md#id-1.-mehrfachteilnahme-was-ist-das-wie-funktioniert-sie-und-welche-auswirkungen-sind-zu-erwarten)
-2. [Kooperation mit EEGs und GEAs zur Mehrfachteilnahme](protokoll-vorstandsmeeting-02.04.2024.md#id-2.-kooperation-mit-eegs-und-geas)
-3. [Umgang mit neuen Mitgliedern zur Mehrfachteilnahme](protokoll-vorstandsmeeting-02.04.2024.md#id-3.-umgang-mit-neuen-mitgliedern-zur-mehrfachteilnahme)&#x20;
+1. [Mitgliedsbeitrag - Vereinfachung für 7Energy - BEG](protokoll-vorstandsmeeting-02.04.2024.md#id-1.-mitgliedsbeitrag-vereinfachung)
+2. [Mehr Zählpunkte über den Zero-Tarif beschenken](protokoll-vorstandsmeeting-02.04.2024.md#id-2.-mehr-zahlpunkte-uber-den-zero-tarif-beschenken)&#x20;
+3. [Zero-Tarif: Durchrechnungszeitraum verlängern](protokoll-vorstandsmeeting-02.04.2024.md#id-3.-zero-tarif-durchrechnungszeitraum-verlangern)&#x20;
+4. [Mitgliedsbeitrag - Freikontingent bei vielen Zählpunkten](protokoll-vorstandsmeeting-02.04.2024.md#id-4.-mitgliedsbeitrag-freikontingent-bei-vielen-zahlpunkten)
 
-### 1. Mehrfachteilnahme - was ist das, wie funktioniert sie und welche Auswirkungen sind zu erwarten?
+### 1. Mitgliedsbeitrag - Vereinfachung für 7Energy - BEG &#x20;
 
-Wie im EAG (Erneuerbaren-Ausbau-Gesetz) vom Juli 2021 festgehalten, soll die Mehrfachteilnahme - also die Teilnahme an bis zu maximal 5 Energiegemeinschaften - möglich gemacht werden.&#x20;
+Die aktuell gültige rollierende Verrechnung des Mitgliedsbeitrages zu einem Zählpunkt und eventuelle Gutschriften und Mehrverrechnungen ab dem 2. Jahr der Teilnahme stellen, wie im [Vorstandsmeeting vom 13.05.2024](protokoll-vorstandsmeeting-02.04.2024-1.md) niedergeschrieben, eine zunehmend schwer zu kommunizierende Komplexität dar.&#x20;
 
-Dafür wurde von Österreichs Energie / ebUtilities in den letzten 2,5 Jahren daran gearbeitet, diese Mehrfachteilnahme in den energiewirtschaftlichen Prozessen und der Software bei den Netzbetreibern auch abbilden zu können.&#x20;
+Diese Festlegung dieser Mitgliedsbeitragsverrechnung stammt noch aus der Zeit bevor es OeMAG Abschläge für Produzenten gab, keine Mehrfachteilnahme (BEG und EEG Teilnahme) möglich war und wenig Erfahrungswerte mit Energiegemeinschaften vorlag.&#x20;
 
-Die Mehrfachteilnahme wird ab 8. April 2024 in allen Netzgebieten, deren Netzbetreiber weit genug entwickelte Software einsetzen, verfügbar sein. Welche das sind, ist aktuell nicht bekannt.&#x20;
-
-Damit ein Mitglied in einer 2. Energiegemeinschaft ebenfalls teilnehmen kann, muss in der 1. Energiegemeinschaft die Teilnahme reduziert werden. Man muss mit mindestens 1% an jeder Energiegemeinschaft teilnehmen. Den Namen, eventuelle Daten zur Größe und dem Verbrauchs- und Produktionsverhalten der jeweilig anderen Energiegemeinschaft kann man nicht automatisch abfragen. Diese Information haben in der Regel nur Netzbetreiber, aber bei BEGs sind auch da nur die Informationen aus dem eigenen Netzgebiet bekannt. Energieversorger und Stromhändler bekommen nur die für sie relevanten Daten zur Abrechnung. &#x20;
-
-Damit verstärkt die aktuelle Implementierung der Mehrfachteilnahme ein generelles Problem von Energiegemeinschaften, auf welches schon viele in der Energiebranche hinweisen: Die Erstellung von Fahrplänen und die Meldung an die jeweiligen Bilanzkreisverantwortlichen wird immer ungenauer und verursacht zusätzliche Ausgleichsenergiekosten, die die Allgemeinheit tragen muss.  &#x20;
-
-Energiegemeinschaften sind schon heute aus dem netzstabilisierenden Bilanzkreissystem ausgenommen, was aller Voraussicht nach nicht so bleiben kann, wenn sich zunehmend mehr Menschen in Energiegemeinschaften zusammenschließen.&#x20;
-
-**Vorschlag:** Wir sollten uns schon heute darauf einstellen, dass auch Fahrpläne in einem Bilanzkreissystem erstellt werden können.&#x20;
-
-**Abstimmungsergebnis:** einstimmig angenommen
-
-### 2. Kooperation mit EEGs und GEAs&#x20;
-
-Wir bekommen immer mehr Anfragen von Mitgiedern aus GEAs und EEGs die auch in unserer BEG Mitglied werden wollen.&#x20;
-
-Wir arbeiten auch schon geraume Zeit daran, dass die Mehrfachteilnahme sinnvoll verwaltet werden kann, da wir ja auch große Produktions- und Verbrauchsanlagen im Teilnahmefaktor regeln wollen, was schon seit Q4/2023 in unseren Tarifblättern beschrieben ist. Ein wichtiger Aspekt dabei ist, dass ein sich täglich ändernder Teilnahmefaktor abgebildet werden kann. Auch kann man minimal nur 1% an einer Energiegemeinschaft teilnehmen, da man ansonsten wieder durch den teilweise sehr aufwendigen Datenfreigabeprozess gehen muss. Die Teilnahme in mehreren Energiegemeinschaften benötigt die Anpassung von Rechnungen, die dann aus jeder Energiegemeinschaft kommen müssen.&#x20;
-
-Dadurch kann sich in der Praxis eine massive Kleinteiligkeit der Energiemengen bei stark steigenden administrativen Kosten ergeben. Nachdem wir selbst viele Monate nach der Einführung des VEZ immer noch Datenfehler haben, gehen wir auch bei der Mehrfachteilnahme davon aus, dass wir die bereitgestellten Daten sehr genau prüfen müssen, bevor verrechnet werden kann. &#x20;
-
-Deshalb benötigt es auch auf unserer Seite eine schrittweise Umsetzung für die Entwicklung einer optimalen Lösung in Zusammenarbeit mit unserem IT-Dienstleister. &#x20;
-
-1. Schritt: Test eines statischen Teilnahmefaktors mit Anlagen von ausgewählten Mitgliedern und Analyse der bereitgestellten Datenqualität. Aufbau der entsprechenden Abrechnungslogik und Rechnungslegung.&#x20;
-2. Schritt: Einführung einer automatischen, täglich optimierten Aufteilung mit Energiegemeinschaften welche dasselbe IT-System verwenden.&#x20;
-3. Schritt: Entwicklung und Einsatz von Prognoseverfahren zur Erstellung von Fahrplänen die man auch mit Energieversorgern teilen kann, um die Kosten für Ausgleichsenergie gering zu halten und bessere Strompreise zu erzielen.&#x20;
-
-Damit die Mehrfachteilnahme auch reibungslos und administrativ einfach funktioniert, macht es Sinn mit GEAs und EEGs entsprechende Vereinbarungen zu treffen, um hier eine optimale Lösung für alle teilnehmemenden Mitglieder bereitstellen zu können.&#x20;
-
-**Vorschlag:** Bildung von Kooperationen mit Energiegemeinschaften, um die nötigen Voraussetzungen für eine kosteneffiziente und netzdienliche Mehrfachteilnahme schaffen zu können.&#x20;
-
-**Abstimmungsergebnis:** einstimmig angenommen
-
-### 3. Umgang mit neuen Mitgliedern zur Mehrfachteilnahme&#x20;
-
-Wir hatten inzwischen mehrere Fälle, wo potentielle Mitglieder schon Teilnehmer in anderen Energiegemeinschaften waren. Alle haben schlussendlich wieder ihre Betrittsanträge zurückgezogen.&#x20;
-
-Wie schon in [#id-1.-mehrfachteilnahme-was-ist-das-wie-funktioniert-sie-und-welche-auswirkungen-sind-zu-erwarten](protokoll-vorstandsmeeting-02.04.2024.md#id-1.-mehrfachteilnahme-was-ist-das-wie-funktioniert-sie-und-welche-auswirkungen-sind-zu-erwarten "mention") herausgearbeitet, ist jegliche Einmeldung eines Zählpunkts in die 7Energy - BEG aktuell ein "Glücksspiel" und würde einen hohen Abstimmungsaufwand zwischen uns und den anderen betroffenen Energiegemeinschaften verursachen. Auch ist es wahrscheinlich, dass man oftmals in anderen Energiegemeinschaften gar keine administrierbare Handhabe zur laufenden Änderung des Teilnahmefaktors hat.&#x20;
-
-Dazu kommt noch, dass einzelne Interessenten die Mehrfachteilnahme hauptsächlich zur Gewinnoptimierung nutzen möchten, um möglichst viel Strom in Energiegemeinschaften für einen besseren Preis verkaufen zu können. Damit steht aber der Gemeinschaftsgedanke nicht mehr im Vordergrund.  &#x20;
+Deshalb wollen wir den Mitgliedsbeitrag für die bessere Verständlichkeit vereinfachen ohne die getroffenen Regelungen in ihrer finanziellen Wirkung spürbar zu verändern.&#x20;
 
 **Vorschlag:**&#x20;
 
-1. Der 7Energy - BEG kann man momentan nur zu 100% beitreten und die Mehrfachteilnahme wird im Zusammenspiel mit kooperierenden EEGs und GEAs über ein gemeinsames IT-System ermöglicht. &#x20;
-2. Das Anmeldeformular wird im Fall von gehäuften Mitgliedsanträgen von Teilnehmern welche schon in anderen, nicht kooperierenden Energiegemeinschaften sind, um eine weitere Bestätigung erweitert, wo Spesen für den administrativen Aufwand verrechnet werden dürfen.&#x20;
+1. Die Abrechnung soll nicht mehr rollierend erfolgen, sondern mit dem Stichtag 01.01. des jeweiligen Jahres durchgeführt werden.
+2. Alle noch nicht verrechneten Mitgliedsbeiträge im laufenden Jahr, werden wie bisher mit 12€/Zählpunkt verrechnet. Bei der nächsten Abrechnung mit Stichtag 01.01.2025 werden für zu viel verrechnete Monate dann Gutschriften ausgestellt.\
+   **Beispiel:** Ein Zählpunkt wird mit 12.09.2024 aktiviert, dann zahlt man erst mal 12€ an Mitgliedsbeitrag. Am 01.01.2025 werden dann 12€ für das gesamte Jahr verrechnet und 9€ aus dem Vorjahr als Gutschrift gegengerechnet. Es werden also 3€ fällig.&#x20;
+3. Zählpunkte mit geringen Energieumsatz in der 7Energy - BEG (<100 kWh im Monat) bekommen eine Gutschrift von 1€ für jedes Monat im Rahmen der jährlichen Abrechnung des Mitgliedsbeitrags ab dem 2. Kalenderjahr der Teilnahme. \
+   **Beispiel:** Ein Zählpunkt wurde am 05.08.2024 aktiviert und hatte im Oktober einen Energieumsatz von 67,3 kWh und im November einen Energieumsatz von 88,9 kWh. Im September und Dezember war der Energieumsatz >100 kWh. Es gibt deshalb in der Abrechnung des Mitgliedsbeitrags mit Stichtag 01.01.2025 eine Gutschrift von 2€.
+4. Zählpunkte mit hohen Energieumsatz in der 7Energy - BEG (>1000 kWh im Monat) haben keinen erhöhten Mitgliedsbeitrag im 2. Jahr mehr. Auch für diese Zählpunkte werden 12€ mit Stichtag 01.01. des jeweiligen Jahres an Mitgliedsbeitrag verrechnet. Damit reduziert sich der Mitgliedsbeitrag für diese Zählpunkte um bis zu 50%.
+5. Wenn man sich für die Mehrfachteilnahme (Österreich- und Regional-Paket; BEG & EEG) im System der EG Austria entscheidet, dann bekommt man 50% Rabatt auf den Mitgliedsbeitrag von je 12€/Jahr/Zählpunkt und zahlt deshalb auch hier nur 12€/Jahr/Zählpunkt für beide Mitgliedschaften (mind. 1 ZP aktiv in BEG / mind. 1 ZP aktiv in EEG). Eine zusätzliche Gutschrift bei geringen Energieumsatz in der 7Energy - BEG gibt es keine.  &#x20;
 
-**Abstimmungsergebnis:** beide Vorschläge einstimmig angenommen
+**Abstimmungsergebnis:** einstimmig angenommen
 
+### 2. Mehr Zählpunkte über den Zero-Tarif beschenken&#x20;
 
+Aktuell können bis zu 5 Verbrauchszählpunkte von einem Einspeisezählpunkt beschenkt werden. Das reicht vor allem bei größeren Anlagen in Gemeinden und bei Firmen nicht aus.
 
-###
+Wir haben deshalb schon öfter den Wunsch nach mehr Zero-Zählpunkten gehört, um möglichst viele Standorte mit Gratisstrom versorgen zu können. :tada:
+
+Auch ist bisher nicht klar definiert, ob die bis zu 5 Verbrauchszählpunkte für jede Energiegemeinschaft im EG Austria System gelten. Wir gehen aber davon aus, dass eine Zuordnung von Zero-Zählpunkten für jede Energiegemeinschaft von vielen nicht gar nicht gewünscht ist, weil der Aufwand der Pflege sehr hoch ist. Auch lässt sich die Optimierung des Teilnahmefaktors an EEG/BEG damit deutlich schwieriger realisieren.
+
+**Vorschlag:** Wir erlauben Strom schenken über den Zero-Tarif an bis zu 10 Zählpunkten. Dieses Limit gilt übergreifend über alle Energiegemeinschaften an denen man im EG Austria System teilnimmt.
+
+**Abstimmungsergebnis:** einstimmig angenommen
+
+### 3. Zero-Tarif: Durchrechnungszeitraum verlängern&#x20;
+
+Der Durchrechnungszeitraum für über den Zero-Tarif beschenkte Zählpunkte ist aktuell gleich wie bei der Zuteilung von Strom in der Energiegemeinschaft - 15 Minuten.&#x20;
+
+Alles was von einem Einspeisezählpunkt in 15 Minuten an die Energiegemeinschaft verkauft werden kann, kann potentiell auch an einen beschänkten Verbrauchszählpunkt weitergegeben werden. Das passiert aber nur, wenn auch in genau diesen 15 Minuten der Bezug aus der Energiegemeinschaft gleich hoch oder höher ist.&#x20;
+
+Um die maximale Strommenge verschenken zu können, muss man sich als Produzent, damit an den Bezug des Verbrauchers orientieren. Diese Information hat man aber in der Regel nicht.&#x20;
+
+Deshalb haben mehrere Mitglieder vorgeschlagen, dass es vorteilhaft wäre, wenn wir den Durchrechnungzeitraum erhöhen würden. Ein längerer Durchrechnungszeitraum erlaubt, dass der Produzent sich darauf konzentrieren kann möglichst viel in die Energiegemeinschaft zu verkaufen und der Verbraucher sein Verhalten nicht bekannt geben muss.&#x20;
+
+Im Prinzip wird die Energiegemeinschaft damit eine Art "Batterie". Man bekommt eine Netto-Verrechnung auf den jeweiligen Durchrechnungszeitraum.&#x20;
+
+**Vorschlag:** Wir ändern mit Oktober 2024 den Durchrechnungszeitraum des Zero-Tarifs von 1/4h auf einen (1) Tag und erhöhen damit die geschenkte 🫶 Strommenge signifikant.&#x20;
+
+**Abstimmungsergebnis:** einstimmig angenommen
+
+### 4. Mitgliedsbeitrag - Freikontingent bei vielen Zählpunkten&#x20;
+
+Bei Gesprächen mit Gemeinden und Firmen haben wir gelernt, dass es mitunter Zählpunkte gibt, die nur wenig Strom umsetzen (z.B. LED Weihnachtsbeleuchtung) und deshalb macht man sich Gedanken, ob diese ebenfalls für die Energiegemeinschaft angemeldet werden sollten.&#x20;
+
+Administrativ macht aber die Bewertung solcher Zählpunkte wenig Sinn, da jedes Gespräch mehr "kostet" also die potentiellen Einsparungen. Damit wir uns mit dem Thema möglichst nicht beschäftigen müssen und diese Zählpunkte ebenfalls in die Optimierung einbeziehen zu können, macht es Sinn ein Freikontingent an Zählpunkten zu schaffen für die kein zusätzlicher Mitgliedsbeitrag zu zahlen ist.
+
+**Vorschlag:** Wir verwenden eine kontinuierliche Formel für die Berechnung von Freikontingenten bei der Festlegung der verrechneten Mitgliedsbeiträge. Dieses Freikontingent gilt nur für den Fall der Mehrfachteilnahme im EG Austria System mit mind. 1 aktiven Zählpunkt in jeder Energiegemeinschaft (BEG / EEG).
+
+Die Formel lautet: round( f(x) = 0,15\*x + 1,25 \* log(2)(x/25) \* x/25) ... und das Ergebnis ist:&#x20;
+
+<table><thead><tr><th width="305">Aktive Zählpunkte eines Mitglieds</th><th>Freikontingent an Zählpunkten</th></tr></thead><tbody><tr><td>10</td><td>1 (Mitgliedsbeitrag: 9 Zählpunkte | 10% Rabatt)</td></tr><tr><td>30</td><td>5 (Mitgliedsbeitrag: 25 Zählpunkte | 16,7% Rabatt)</td></tr><tr><td>50</td><td>10 (Mitgliedsbeitrag: 40 Zählpunkte | 20% Rabatt )</td></tr><tr><td>100</td><td>25 (Mitgliedsbeitrag: 75 Zählpunkte | 25% Rabatt)</td></tr><tr><td>200</td><td>60 (Mitgliedsbeitrag: 140 Zählpunkte | 30% Rabatt)</td></tr></tbody></table>
+
+**Abstimmungsergebnis:** einstimmig angenommen
