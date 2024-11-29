@@ -69,7 +69,7 @@ Bei Gesprächen mit Gemeinden und Firmen haben wir gelernt, dass es mitunter Zä
 
 Administrativ macht aber die Bewertung solcher Zählpunkte wenig Sinn, da jedes Gespräch mehr "kostet", also die potenziellen Einsparungen. Damit wir uns mit dem Thema möglichst nicht beschäftigen müssen und diese Zählpunkte ebenfalls in die Optimierung einbeziehen zu können, macht es Sinn, ein Freikontingent an Zählpunkten zu schaffen, für die kein zusätzlicher Mitgliedsbeitrag zu zahlen ist.
 
-**Vorschlag:** Wir verwenden eine kontinuierliche Formel für die Berechnung von Freikontingenten bei der Festlegung der verrechneten Mitgliedsbeiträge. Dieses Freikontingent gilt nur für den Fall der Mehrfachteilnahme im EG Austria System mit mind. 1 aktiven Zählpunkt in jeder Energiegemeinschaft (BEG / EEG).
+**Vorschlag:** Wir verwenden eine kontinuierliche Formel für die Berechnung von Freikontingenten bei der Festlegung der verrechneten Mitgliedsbeiträge. Dieses Freikontingent gilt ab 10 Zählpunkten und nur für den Fall der Mehrfachteilnahme im EG Austria System mit mind. 1 aktiven Zählpunkt in jeder Energiegemeinschaft (BEG / EEG).
 
 Die Formel lautet: round( f(x) = 0,15\*x + 1,25 \* log(2)(x/25) \* x/25) ... und das Ergebnis ist:&#x20;
 
