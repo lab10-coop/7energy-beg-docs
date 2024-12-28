@@ -54,4 +54,4 @@ Dafür war es notwendig, dass so ziemlich jedes neue Mitglied erst nach einen pe
 
 Wir bekamen für dieses Projekt auch eine Förderung durch die [Internet Stiftung - netidee](https://www.netidee.at/7energy).&#x20;
 
-Die Dokumentation zu der "Version 1" von 7Energy findest du [hier](https://dao-docs.7energy.at/) und den Zugriff auf die DAO findest du [hier](https://dao.7energy.at/).&#x20;
+Die Dokumentation zu der "Version 1" von 7Energy findest du [hier](https://dao-docs.7energy.at/) und die Webseite findest du [hier](https://7energy.at/).&#x20;
