@@ -12,6 +12,8 @@ Es gelten dieselben Gebühren wie bei einer Inlandsüberweisung.
 
 7Energy - Bürgerenergiegemeinschaft für erneuerbaren Strom
 
+Am Alias "7Energy - BEG" arbeiten wir noch. :smile:
+
 #### Vereinsadresse
 
 Strauchergasse 13, 8020 Graz, Austria
