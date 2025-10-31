@@ -12,7 +12,7 @@ Es gelten dieselben Gebühren wie bei einer Inlandsüberweisung.
 
 7Energy - Burgerenergiegemeinschaft fur erneuerbaren Strom
 
-Am Alias "7Energy - BEG" arbeiten wir noch. :smile:
+Mit 31.10.2025 ist der alias "7Energy BEG" nun eingestellt. :smile:
 
 #### Vereinsadresse
 
