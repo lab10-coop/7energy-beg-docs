@@ -10,9 +10,7 @@ Es gelten dieselben Gebühren wie bei einer Inlandsüberweisung.
 
 #### Kontoeigentümer
 
-7Energy - Burgerenergiegemeinschaft fur erneuerbaren Strom
-
-Mit 31.10.2025 ist der alias "7Energy BEG" nun eingestellt. :smile:
+7Energy BEG
 
 #### Vereinsadresse
 
