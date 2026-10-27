@@ -8,13 +8,13 @@ description: 7Energy - Bürgerenergiegemeinschaft für erneuerbaren Strom
 
 (1) Der Verein führt den Namen „7Energy – Bürgerenergiegemeinschaft für erneuerbaren Strom“, kurz: „7Energy – BEG“.
 
-(2) Er hat seinen Sitz in Strauchergasse 13, 8020 Graz und erstreckt seine Tätigkeit über ganz Österreich.
+(2) Er hat seinen Sitz in Graz und erstreckt seine Tätigkeit über ganz Österreich.
 
 (3) Die Errichtung von Zweigvereinen ist nicht beabsichtigt.
 
 ### _§ 2: Zweck_
 
-Der Verein, dessen Tätigkeit nicht auf Gewinn ausgerichtet ist, dient als Rechtspersönlichkeit zur Gründung einer Bürgerenergiegemeinschaft. Nachdem die rechtliche Grundlage zur Gründung von Bürgerenergiegemeinschaften mit dem Beschluss des Erneuerbaren-Ausbau-Gesetzespakets (Regelungen für Energiegemeinschaften sind im Erneuerbaren-Ausbau-Gesetz per se, sowie im adaptierten Elektrizitätswirtschafts- und Organisationsgesetz festgeschrieben) geschaffen wurde, dient die Gründung dieses Vereins als Basis zur praktischen Umsetzung einer Bürgerenergiegemeinschaft. Ziel dieser Bürgerenergiegemeinschaft ist es, erneuerbar erzeugten Strom mit dem Verein und unter den Mitgliedern des Vereins zu teilen, sodass ein positiver Beitrag zur Energiewende geleistet und die Energieunabhängigkeit erhöht werden kann. Der Hauptzweck der Bürgerenergiegemeinschaft liegt nicht im finanziellen Gewinn (wie rechtlich im ElWOG §16b (2) festgeschrieben), sondern soll seinen Mitgliedern ökologische und sozialgemeinschaftliche Vorteile bringen.
+Der Verein, dessen Tätigkeit nicht auf Gewinn ausgerichtet ist, dient als Rechtspersönlichkeit einer Bürgerenergiegemeinschaft nach den jeweils geltenden energierechtlichen Bestimmungen. Ziel dieser Bürgerenergiegemeinschaft ist es, erneuerbar erzeugten Strom mit dem Verein und unter den Mitgliedern des Vereins zu teilen, sodass ein positiver Beitrag zur Energiewende geleistet und die Energieunabhängigkeit erhöht werden kann. Der Hauptzweck der Bürgerenergiegemeinschaft liegt nicht im finanziellen Gewinn, sondern soll ihren Mitgliedern ökologische und sozialgemeinschaftliche Vorteile bringen.
 
 ### _§ 3: Mittel zur Erreichung des Vereinszwecks_
 
@@ -32,10 +32,10 @@ Der Verein, dessen Tätigkeit nicht auf Gewinn ausgerichtet ist, dient als Recht
 
 * a) Beitrittsgebühren
 * b) Mitgliedsbeiträge
-* Sponsoring
-* Subventionen
-* Servicegebühren
-* Stromhandel
+* c) Sponsoring
+* d) Subventionen
+* e) Servicegebühren
+* f) Stromhandel
 
 ### _§ 4: Arten der Mitgliedschaft_
 
@@ -55,15 +55,15 @@ Der Verein, dessen Tätigkeit nicht auf Gewinn ausgerichtet ist, dient als Recht
 
 (1) Die Mitgliedschaft erlischt durch Tod, bei juristischen Personen und rechtsfähigen Personengesellschaften durch Verlust der Rechtspersönlichkeit, durch freiwilligen Austritt und durch Ausschluss.
 
-(2) Der Austritt kann zu jedem Zeitpunkt des Jahres erfolgen. Er muss dem Vorstand jedoch mindestens zwei Monate vorher schriftlich mitgeteilt werden. Für die Rechtzeitigkeit ist das Datum der Postaufgabe maßgeblich.
+(2) Der Austritt kann zu jedem Zeitpunkt des Jahres erfolgen. Er muss dem Vorstand jedoch mindestens zwei Monate vorher schriftlich oder elektronisch mitgeteilt werden. Für die Rechtzeitigkeit ist das Datum der Postaufgabe oder elektronischen Absendung maßgeblich.
 
-(3) Der Vorstand kann ein Mitglied ausschließen, wenn dieses trotz zweimaliger schriftlicher Mahnung unter Setzung einer angemessenen Nachfrist länger als drei Monate mit der Zahlung der Mitgliedsbeiträge im Rückstand ist. Die Verpflichtung zur Zahlung der fällig gewordenen Mitgliedsbeiträge bleibt hievon unberührt.
+(3) Der Vorstand kann ein Mitglied ausschließen, wenn dieses trotz zweimaliger schriftlicher oder elektronischer Mahnung unter Setzung einer angemessenen Nachfrist länger als drei Monate mit der Zahlung der Mitgliedsbeiträge im Rückstand ist. Die Verpflichtung zur Zahlung der fällig gewordenen Mitgliedsbeiträge bleibt hievon unberührt.
 
-(4) Der Vorstand kann ein Mitglied ausschließen, wenn dieses trotz zweimaliger schriftlicher Erinnerung zur reibungslosen Zahlung der Energie-Abrechnungsbeträge in der Energiegemeinschaft nicht nachkommt.
+(4) Der Vorstand kann ein Mitglied ausschließen, wenn dieses trotz zweimaliger schriftlicher oder elektronischer Erinnerung zur reibungslosen Zahlung der Energie-Abrechnungsbeträge in der Energiegemeinschaft nicht nachkommt.
 
 (5) Der Ausschluss eines Mitglieds aus dem Verein kann vom Vorstand auch wegen grober Verletzung anderer Mitgliedspflichten und wegen unehrenhaften Verhaltens verfügt werden.
 
-(6) Die Aberkennung der Ehrenmitgliedschaft kann aus den im Abs. 4 genannten Gründen von der Generalversammlung über Antrag des Vorstands beschlossen werden.
+(6) Die Aberkennung der Ehrenmitgliedschaft kann aus den im Abs. 5 genannten Gründen von der Generalversammlung über Antrag des Vorstands beschlossen werden.
 
 ### _§ 7: Rechte und Pflichten der Mitglieder_
 
@@ -77,9 +77,9 @@ Der Verein, dessen Tätigkeit nicht auf Gewinn ausgerichtet ist, dient als Recht
 
 (5) Die Mitglieder sind vom Vorstand über den geprüften Rechnungsabschluss (Rechnungslegung) zu informieren. Geschieht dies in der Generalversammlung, sind die Rechnungsprüfer einzubinden.
 
-(6) Die Mitglieder sind verpflichtet, die Interessen des Vereins nach Kräften zu fördern und alles zu unterlassen, wodurch das Ansehen und der Zweck des Vereins Abbruch erleiden könnte. Sie haben die Vereinsstatuten und die Beschlüsse der Vereinsorgane zu beachten. Die ordentlichen und fördernden Mitglieder sind zur pünktlichen Zahlung der Beitrittsgebühr und der Mitgliedsbeiträge in der von der Generalversammlung beschlossenen Höhe verpflichtet.
+(6) Die Mitglieder sind verpflichtet, die Interessen des Vereins nach Kräften zu fördern und alles zu unterlassen, wodurch das Ansehen und der Zweck des Vereins Abbruch erleiden könnte. Sie haben die Vereinsstatuten und die Beschlüsse der Vereinsorgane zu beachten. Die ordentlichen und fördernden Mitglieder sind zur pünktlichen Zahlung der Beitrittsgebühr und der Mitgliedsbeiträge in der vom Vorstand festgesetzten Höhe verpflichtet.
 
-(7) Die in der Stromabrechnung eingebundenen ordentlichen Mitglieder sind zur pünktlichen Zahlung der Abrechnungsbeträge gemäß Energieverbrauch verpflichtet. Sollte ein ordentliches Mitglied aus dem Verein ausscheiden, sind bis zur Umstellung der Stromabrechnung über die Energiegemeinschaft weiterhin alle Abrechnungsbeträge gemäß Energieverbrach zu bezahlen.
+(7) Die in der Stromabrechnung eingebundenen ordentlichen Mitglieder sind zur pünktlichen Zahlung der Abrechnungsbeträge gemäß Energieverbrauch verpflichtet. Sollte ein ordentliches Mitglied aus dem Verein ausscheiden, sind bis zur Umstellung der Stromabrechnung über die Energiegemeinschaft weiterhin alle Abrechnungsbeträge gemäß Energieverbrauch zu bezahlen.
 
 ### _§ 8: Vereinsorgane_
 
@@ -87,12 +87,12 @@ Organe des Vereins sind die Generalversammlung (§§ 9 und 10), der Vorstand (§
 
 ### _§ 9: Generalversammlung_
 
-(1) Die Generalversammlung ist die „Mitgliederversammlung“ im Sinne des Vereinsgesetzes 2002. Eine ordentliche Generalversammlung findet alle zwei Jahre statt.
+(1) Die Generalversammlung ist die „Mitgliederversammlung“ im Sinne des Vereinsgesetzes 2002. Eine ordentliche Generalversammlung findet alle vier Jahre statt.
 
 (2) Eine außerordentliche Generalversammlung findet binnen vier Wochen auf
 
 * a) Beschluss des Vorstands oder der ordentlichen Generalversammlung,
-* b) schriftlichen Antrag von mindestens einem Zehntel der Mitglieder,
+* b) schriftlichen oder elektronischen Antrag von mindestens einem Zehntel der Mitglieder,
 * c) Verlangen der Rechnungsprüfer (§ 21 Abs. 5 erster Satz VereinsG),
 * d) Beschluss der/eines Rechnungsprüfer/s (§ 21 Abs. 5 zweiter Satz VereinsG, § 11 Abs. 2 dritter Satz dieser Statuten),
 * e) Beschluss eines gerichtlich bestellten Kurators (§ 11 Abs. 2 letzter Satz dieser Statuten)
@@ -109,7 +109,11 @@ Organe des Vereins sind die Generalversammlung (§§ 9 und 10), der Vorstand (§
 
 (8) Die Wahlen und die Beschlussfassungen in der Generalversammlung erfolgen in der Regel mit einfacher Mehrheit der abgegebenen gültigen Stimmen. Beschlüsse, mit denen das Statut des Vereins geändert oder der Verein aufgelöst werden soll, bedürfen jedoch einer qualifizierten Mehrheit von zwei Drittel der abgegebenen gültigen Stimmen.
 
-(9) Abstimmungen erfolgen generell offen, eine geheime Abstimmung kann beantragt werden. Personenwahlen haben geheim zu erfolgen. Teilnehmende per Videokonferenz können nur an offenen Abstimmungen teilnehmen, außer eine geheime und sichere Stimmabgabe wird anderweitig ermöglicht.
+(9) Abstimmungen und Wahlen erfolgen offen.
+
+(10) Die Generalversammlung kann von einem Mitglied des Vorstands oder einer von ihm bestimmten Person geleitet werden.
+
+(11) Generalversammlungen finden in der Regel als virtuelle Versammlung ohne physische Anwesenheit der Teilnehmer statt (§§ 1 bis 3 VirtGesG). Das einberufende Organ kann stattdessen eine Präsenzversammlung oder eine hybride Versammlung (§ 4 VirtGesG) festlegen und entscheidet bei einer virtuellen Versammlung, ob sie als einfache (§ 2 VirtGesG) oder als moderierte virtuelle Versammlung (§ 3 VirtGesG) durchgeführt wird.
 
 ### _§ 10: Aufgaben der Generalversammlung_
 
@@ -127,17 +131,11 @@ unter Einbindung der Rechnungsprüfer;
 
 (5) Entlastung des Vorstands;
 
-(6) Festsetzung der Höhe der Beitrittsgebühr und der Mitgliedsbeiträge für ordentliche und für
+(6) Verleihung und Aberkennung der Ehrenmitgliedschaft;
 
-fördernde Mitglieder;
+(7) Beschlussfassung über Statutenänderungen und die freiwillige Auflösung des Vereins;
 
-(7) Festlegung der Verrechnungsmodalitäten beim Austausch von Energie;
-
-(8) Verleihung und Aberkennung der Ehrenmitgliedschaft;
-
-(9) Beschlussfassung über Statutenänderungen und die freiwillige Auflösung des Vereins;
-
-(10) Beratung und Beschlussfassung über sonstige auf der Tagesordnung stehende Fragen.
+(8) Beratung und Beschlussfassung über sonstige auf der Tagesordnung stehende Fragen.
 
 ### _§ 11: Vorstand_
 
@@ -149,7 +147,7 @@ fördernde Mitglieder;
 
 (4) Jedes Vorstandsmitglied kann den Vorstand einberufen.
 
-(5) Der Vorstand ist beschlussfähig, wenn alle seine Mitglieder eingeladen wurden und zumindest zwei von ihnen anwesend ist.
+(5) Der Vorstand ist beschlussfähig, wenn alle seine Mitglieder eingeladen wurden und zumindest zwei von ihnen anwesend sind.
 
 (6) Der Vorstand fasst seine Beschlüsse mit einfacher Stimmenmehrheit. Besteht der Vorstand nur aus zwei Mitgliedern müssen Beschlüsse einstimmig erfolgen.
 
@@ -157,7 +155,7 @@ fördernde Mitglieder;
 
 (8) Die Generalversammlung kann jederzeit den gesamten Vorstand oder einzelne seiner Mitglieder entheben. Die Enthebung tritt mit Bestellung des neuen Vorstands bzw. Vorstandsmitglieds in Kraft.
 
-(9) Die Vorstandsmitglieder können jederzeit schriftlich ihren Rücktritt erklären. Die Rücktrittserklärung ist an den Vorstand, im Falle des Rücktritts des gesamten Vorstands an die Generalversammlung zu richten. Der Rücktritt wird erst mit Wahl bzw. Kooptierung (Abs. 2) eines Nachfolgers wirksam.
+(9) Die Vorstandsmitglieder können jederzeit schriftlich oder elektronisch ihren Rücktritt erklären. Die Rücktrittserklärung ist an den Vorstand, im Falle des Rücktritts des gesamten Vorstands an die Generalversammlung zu richten. Der Rücktritt wird erst mit Wahl bzw. Kooptierung (Abs. 2) eines Nachfolgers wirksam.
 
 ### _§ 12: Aufgaben des Vorstands_
 
@@ -177,6 +175,8 @@ Dem Vorstand obliegt die Leitung des Vereins. Er ist das „Leitungsorgan“ im 
 
 (7) Aufnahme und Kündigung von Angestellten des Vereins.
 
+(8) Festsetzung der Höhe der Beitrittsgebühr und der Mitgliedsbeiträge für ordentliche und fördernde Mitglieder sowie Festlegung der Tarife und Verrechnungsmodalitäten beim Austausch von Energie. Die jeweils gültigen Festlegungen sind den Mitgliedern auf der Webseite des Vereins oder über das Mitgliederportal bekanntzugeben.
+
 ### _§ 13: Besondere Obliegenheiten einzelner Vorstandsmitglieder_
 
 (1) Der Vorstand führt die laufenden Geschäfte des Vereins.
@@ -193,19 +193,19 @@ Dem Vorstand obliegt die Leitung des Vereins. Er ist das „Leitungsorgan“ im 
 
 (2) Den Rechnungsprüfern obliegen die laufende Geschäftskontrolle sowie die Prüfung der Finanzgebarung des Vereins im Hinblick auf die Ordnungsmäßigkeit der Rechnungslegung und die statutengemäße Verwendung der Mittel. Der Vorstand hat den Rechnungsprüfern die erforderlichen Unterlagen vorzulegen und die erforderlichen Auskünfte zu erteilen. Die Rechnungsprüfer haben dem Vorstand über das Ergebnis der Prüfung zu berichten.
 
-(3) Rechtsgeschäfte zwischen Rechnungsprüfern und Verein bedürfen der Genehmigung durch die Generalversammlung. Im Übrigen gelten für die Rechnungsprüfer die Bestimmungen des § 11 Abs. 8 bis 10 sinngemäß.
+(3) Rechtsgeschäfte zwischen Rechnungsprüfern und Verein bedürfen der Genehmigung durch die Generalversammlung. Im Übrigen gelten für die Rechnungsprüfer die Bestimmungen des § 11 Abs. 8 und 9  sinngemäß.
 
 ### _§ 15: Schiedsgericht_
 
 (1) Zur Schlichtung von allen aus dem Vereinsverhältnis entstehenden Streitigkeiten ist das vereinsinterne Schiedsgericht berufen. Es ist eine „Schlichtungseinrichtung“ im Sinne des Vereinsgesetzes 2002 und kein Schiedsgericht nach den §§ 577 ff ZPO.
 
-(2) Das Schiedsgericht setzt sich aus mindestens zwei ordentlichen Vereinsmitgliedern zusammen. Es wird derart gebildet, dass ein Streitteil dem Vorstand ein Mitglied als Schiedsrichter schriftlich namhaft macht. Über Aufforderung durch den Vorstand binnen sieben Tagen macht der andere Streitteil innerhalb von 14 Tagen seinerseits ein Mitglied des Schiedsgerichts namhaft. Nach Verständigung durch den Vorstand innerhalb von sieben Tagen wählen die namhaft gemachten Schiedsrichter binnen weiterer 14 Tage ein drittes ordentliches Mitglied zum/zur Vorsitzenden des Schiedsgerichts. Bei Stimmengleichheit entscheidet unter den Vorgeschlagenen das Los. Die Mitglieder des Schiedsgerichts dürfen keinem Organ – mit Ausnahme der Generalversammlung – angehören, dessen Tätigkeit Gegenstand der Streitigkeit ist.
+(2) Das Schiedsgericht setzt sich aus mindestens zwei ordentlichen Vereinsmitgliedern zusammen. Es wird derart gebildet, dass ein Streitteil dem Vorstand ein Mitglied als Schiedsrichter schriftlich oder elektronisch namhaft macht. Über Aufforderung durch den Vorstand binnen sieben Tagen macht der andere Streitteil innerhalb von 14 Tagen seinerseits ein Mitglied des Schiedsgerichts namhaft. Nach Verständigung durch den Vorstand innerhalb von sieben Tagen wählen die namhaft gemachten Schiedsrichter binnen weiterer 14 Tage ein drittes ordentliches Mitglied zum/zur Vorsitzenden des Schiedsgerichts. Bei Stimmengleichheit entscheidet unter den Vorgeschlagenen das Los. Die Mitglieder des Schiedsgerichts dürfen keinem Organ – mit Ausnahme der Generalversammlung – angehören, dessen Tätigkeit Gegenstand der Streitigkeit ist.
 
 (3) Das Schiedsgericht fällt seine Entscheidung nach Gewährung beiderseitigen Gehörs bei Anwesenheit aller seiner Mitglieder mit einfacher Stimmenmehrheit. Es entscheidet nach bestem Wissen und Gewissen. Seine Entscheidungen sind vereinsintern endgültig.
 
 ### _§ 16: Vereinsordnung_
 
-(1) Die Vereinsordnung regelt das Vereinslebens im Detail. Sie ergänzt die Statuten, darf den Statuten jedoch nicht widersprechen. Sie ist bindend für Organe, Mitglieder, bei Vereinsveranstaltungen und in Einrichtungen des Vereins.
+(1) Die Vereinsordnung regelt das Vereinsleben im Detail. Sie ergänzt die Statuten, darf den Statuten jedoch nicht widersprechen. Sie ist bindend für Organe, Mitglieder, bei Vereinsveranstaltungen und in Einrichtungen des Vereins.
 
 (2) Die Generalversammlung kann die Änderung der Vereinsordnung beschließen. Die Vereinsordnung kann zusätzlich selbst einen Modus definieren, nachdem Änderungen der Vereinsordnung beschlossen werden können.
 
