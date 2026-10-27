@@ -11,7 +11,7 @@ Der Stromtarif für Einspeisung und Verbrauch richtet sich nach dem [E-Control M
 #### Entscheidungshistorie:
 
 * Grundsätzlich wurden die Stromtarife und deren Herleitung in der [AO GV 17.05.2023](generalversammlungen/protokoll-ao-gv-17.05.2023.md) entschieden.&#x20;
-* In der [AO GV 20.11.2023](generalversammlungen/protokoll-ao-gv-20.11.2023.md) wurde die voraussichtliche Beendigung des Gemeinschaftskontobeitrags mit 31.12.2023 angekündigt und im [Vorstandsmeeting am 26.11.2023](../vorstandsmeetings/protokoll-vorstandsmeeting-26.11.2023.md) wurde das Ende des Gemeinschaftskontobeitrags beschlossen.&#x20;
+* In der [AO GV 20.11.2023](generalversammlungen/protokoll-ao-gv-20.11.2023-1.md) wurde die voraussichtliche Beendigung des Gemeinschaftskontobeitrags mit 31.12.2023 angekündigt und im [Vorstandsmeeting am 26.11.2023](../vorstandsmeetings/protokoll-vorstandsmeeting-26.11.2023.md) wurde das Ende des Gemeinschaftskontobeitrags beschlossen.&#x20;
 * Im [Vorstandsmeeting am 09.12.2023](../vorstandsmeetings/protokoll-vorstandsmeeting-09.12.2023.md) wurde für den Austria Zero Zusatztarif eine Servicegebühr von 0 ct/kWh für Produzenten und 2 ct/kWh für Verbraucher festgelegt.
 * Folgend dem Parlamentsbeschluss vom 15.12.2023 bezüglich ÖMAG-Abschlägen haben wir im [Vorstandsmeeting am 29.12.2023](../vorstandsmeetings/protokoll-vorstandsmeeting-29.12.2023.md) beschlossen, dass für volatile Erzeugungsanlagen zwischen 25 und 500kW Engpassleistung auch 50% der ÖMAG-Abschläge geltend gemacht werden.&#x20;
 * Im [Vorstandsmeeting am 20.03.2024](../vorstandsmeetings/protokoll-vorstandsmeeting-20.03.2024.md) haben wir beschlossen, dass wegen dem bevorstehenden ElWG vorläufig keine Volleinspeiseanlagen aufgenommen werden und ab dem 3. Quartal 2024 für alle volatilen "nur" Einspeiser dann 100% der ÖMAG-Abschläge geltend gemacht werden. &#x20;
@@ -35,7 +35,7 @@ Der Mitgliedsbetrag kommt nur zum Tragen, wenn eine Anmeldung in die 7Energy - B
 
 ### Verrechnungskonten
 
-Entschieden in [AO GV 20.06.2023, siehe Details](generalversammlungen/protokoll-ao-gv-20.06.2023.md) dort. In der [AO GV 20.11.2023](generalversammlungen/protokoll-ao-gv-20.11.2023.md) wurde außerdem angemerkt, dass für große Produzenten und Verbraucher die € 100,- für das Verrechnungskonto nicht ausreichen werden und deshalb vom Vorstand flexibel definiert werden.&#x20;
+Entschieden in [AO GV 20.06.2023, siehe Details](generalversammlungen/protokoll-ao-gv-20.06.2023.md) dort. In der [AO GV 20.11.2023](generalversammlungen/protokoll-ao-gv-20.11.2023-1.md) wurde außerdem angemerkt, dass für große Produzenten und Verbraucher die € 100,- für das Verrechnungskonto nicht ausreichen werden und deshalb vom Vorstand flexibel definiert werden.&#x20;
 
 Jedes Mitglied (Produzenten und Verbraucher) zahlen in der Startphase erst einmal € 100,- auf das eigene bereitgestellte Verrechnungskonto ein.&#x20;
 

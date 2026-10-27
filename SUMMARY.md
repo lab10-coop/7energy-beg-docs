@@ -14,8 +14,8 @@
 
 * [Gültige Beschlüsse](organentscheidungen/gueltige-entscheidungen.md)
 * [Generalversammlungen](organentscheidungen/generalversammlungen/README.md)
-  * [Protokoll AO GV - 20.11.2023](organentscheidungen/generalversammlungen/protokoll-ao-gv-20.11.2023.md)
-  * [Protokoll AO GV - 02.10.2026](organentscheidungen/generalversammlungen/protokoll-ao-gv-20.11.2023-1.md)
+  * [Protokoll AO GV - 02.10.2026](organentscheidungen/generalversammlungen/protokoll-ao-gv-20.11.2023.md)
+  * [Protokoll AO GV - 20.11.2023](organentscheidungen/generalversammlungen/protokoll-ao-gv-20.11.2023-1.md)
   * [Protokoll AO GV - 20.06.2023](organentscheidungen/generalversammlungen/protokoll-ao-gv-20.06.2023.md)
   * [Protokoll AO GV - 17.05.2023](organentscheidungen/generalversammlungen/protokoll-ao-gv-17.05.2023.md)
   * [Protokoll GV - 27.09.2022](organentscheidungen/generalversammlungen/protokoll-gv-27.09.2022.md)

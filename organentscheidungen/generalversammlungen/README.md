@@ -4,8 +4,8 @@ description: Protokolle und Beschlüsse
 
 # Generalversammlungen
 
-{% content-ref url="protokoll-ao-gv-20.11.2023.md" %}
-[protokoll-ao-gv-20.11.2023.md](protokoll-ao-gv-20.11.2023.md)
+{% content-ref url="protokoll-ao-gv-20.11.2023-1.md" %}
+[protokoll-ao-gv-20.11.2023-1.md](protokoll-ao-gv-20.11.2023-1.md)
 {% endcontent-ref %}
 
 {% content-ref url="protokoll-ao-gv-20.06.2023.md" %}

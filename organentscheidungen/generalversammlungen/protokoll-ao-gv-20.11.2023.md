@@ -1,68 +1,92 @@
 ---
 description: >-
-  Die Einladung zur geplanten AO GV erfolgte am 06.11.2023 über E-Mail und
+  Die Einladung zur geplanten AO GV erfolgte am 18.09.2026 über E-Mail und
   Aushang am Vereinsitz
 ---
 
-# Protokoll AO GV - 20.11.2023
+# Protokoll AO GV - 02.10.2026
 
 ## Tagesordnung
 
-1. Begrüßung
-2. Verbesserung Prozessablauf und Fairness beim Mitgliedsbeitrag
-3. Info zur Mehrfachteilnahme ab 2024
-4. 7Energy - BEG Status und Ausblick
+1. Begrüßung und Feststellung der Beschlussfähigkeit
+2. Kurzer Bericht über die Vereinstätigkeit und die finanzielle Gebarung
+3. Beschluss über die geänderten Statuten als Gesamtpaket
 
-### 1. Begrüßung
+### 1. Begrüßung und Feststellung der Beschlussfähigkeit
 
-Ort: Strauchergasse 13, A-8020 Graz\
-Online: [https://whereby.com/7energy](https://whereby.com/7energy)
+Online: Microsoft Teams\
+Datum: 02.10.2026\
+Beginn: 20.11.2023 15:02 Uhr
 
-Datum: 20.11.2023, 17:12 (Start)
+Thomas Zeinzinger und Christoph Edlinger begrüßen die Teilnehmenden. Christoph Edlinger begleitet die Moderation, den Chat und die Abstimmung. Fragen können im Chat oder durch Handheben gestellt werden.
 
-28% Anwesenheit, Beschlussfähigkeit ist gegeben.&#x20;
+Anwesenheit: 28 Teilnehmer, davon drei Organisatoren (Christoph Edlinger, Thomas Zeinzinger und Peter Grassberger). Wir sind beschlussfähig, wir haben keine mindestanzahl an Teilnehmern für die Beschlussfähigkeit und es wurde korrekt eingeladen.
 
-### 2. Verbesserung Prozessablauf und Fairness beim Mitgliedsbeitrag
+### 2. Kurzer Bericht über die Vereinstätigkeit und die finanzielle Gebarung
 
-Wir benötigen eine Prozessvereinfachung bei der Bezahlung des Mitgliedsbeitrags, der Aufladung des Verrechnungskontos, eine Reduktion der Eintrittshürde und sollten die "Ungeleichbehandlung" von Netto-Produzenten und Netto-Verbrauchern vermeiden.&#x20;
+#### Vereinstätigkeit
 
-Aktuell haben wir laufend einen erhöhten Aufwand, weil es Probleme beim Verständnis zu Netto-Verbraucher und Netto-Produzenten gibt. Bei ca. 3/4 der Mitglieder muss im Vorfeld erklärt werden, wie das zu verstehen ist. Weiters verursachen zwei Zahlungen (Mitgliedsbeitrag und Aufladung des Verrechnungskontos) erhöhten Kommunikationsaufwand und einem aufwendigen Ablaufprozess. &#x20;
+Thomas Zeinzinger berichtet über die Entwicklung seit der Vereinsgründung am 15.11.2022. Das Jahr 2023 diente vor allem dem Aufbau der organisatorischen und technischen Grundlagen. Ein netzübergreifender Betrieb wurde ab Oktober 2023 möglich.
 
-Deshalb haben wir uns eine Vereinfachung überlegt, um all die obigen Probleme möglichst mit einem Schlag zu lösen.&#x20;
+* 2023 wurden das Verrechnungskonto und ein einheitlicher Mitgliedsbeitrag von 12 Euro je Zählpunkt und Jahr eingeführt. Die Unterscheidung zwischen Netto-Produzenten und Netto-Verbrauchern entfiel. Die Stromtarife waren zunächst an den Marktpreis gekoppelt.
+* 2024 wurde die Mehrfachteilnahme technisch umgesetzt. Der Gemeinschaftskontobeitrag wurde beendet; dadurch wurde der Strom für Verbraucher um 2 Cent je kWh günstiger.
+* Der Austria-Zero-Tarif wurde eingeführt und auf bis zu zehn Zählpunkte erweitert. Seit Oktober 2024 beträgt der Durchrechnungszeitraum einen Tag statt 15 Minuten.
+* Die Abrechnung der Mitgliedsbeiträge wurde mit dem Stichtag 1. Jänner, einem Rabatt bei Mehrfachteilnahme und einem Freikontingent ab zehn Zählpunkten vereinfacht.
 
-**Vorschlag:**&#x20;
+Erzeugung, Verbrauch und innerhalb der Gemeinschaft geteilte Energiemengen stiegen im Jahr 2024 deutlich. Im Dezember 2024 wurden rund 370 MWh Strom innerhalb der 7Energy – BEG weitergegeben. Photovoltaik prägte die Versorgung im Sommer; ab Herbst ergänzten Wind- und Wasserkraft die Erzeugung und verbesserten die Versorgung im Winter.
 
-* Es gibt keine Unterscheidung nach Netto-Produzenten und Netto-Verbraucher mehr. Alle Mitglieder werden gleich beihandelt.&#x20;
-* Der Mitgliedsbeitrag beträgt einheitlich 12€/Jahr/Zählpunkt(ZP), also 1€/Monat/ZP.
-* Zu Beginn der Mitgliedschaft werden 12€/ZP vom Verrechnungskonto abgezogen. Die vollständige Mitgliedschaft beginnt mit der erfolgreichen Einmeldung und Teilnahme des ZPs an der BEG.&#x20;
-* Die Zählung der kWh pro ZP erfolgt ab dem 1. vollständigen Monat der Teilnahme an der BEG. Wenn also ein Mitglied für die Teilnahme an der BEG am 15.10.2023 aufgenommen wird, dann ist der Nov. 2023 das erste vollständige Monat und mit Ende Oktober 2024 ist man dann 1 Jahr Teilnehmer an der BEG. Der Mitgleidsbeitrag wird dann also rollierend pro Zählpunkt fällig.&#x20;
-* Sofern in einem Monat an einem ZP <100 kWh mit der BEG umgesetzt wurden, wird der Mitgliedsbeitrag für das Folgejahr entsprechend mit einer Gutschrift um je 1€/Monat reduziert. Damit steigen Produzenten auch weiterhin immer besser aus als mit dem Verkauf an die ÖMAG. Für kleine Verbraucher, z.B. PV-Anlagenbetreiber die eine hohe Eigendeckung haben, werden dadurch die Verbrauchzählpunkte nicht extra belastet. &#x20;
-* Sofern in einem Monat an einem ZP >1000 kWh mit der BEG umgesetzt wurden, wird der Mitgliedsbeitrag für das Folgejahr entsprechend mit einer Aufschlag um je 1€/Monat versehen. Damit beiteiligen sich Großverbraucher und -produzenten verstärkt an der Grundfinanzierung für den Verein.  &#x20;
-* Es gibt keine aliquote Rückzahlung des Mitgliedsbeitrags.
-* Diese Regelung gilt ab sofort. Für alle bestehenden Mitglieder die aktuell als Netto-Produzenten eingestuft wurden und einen Mitgliedsbeitrag gezahlt haben, werden vom Verrechnungskonto die 12€/ZP abgezogen und bei Netto-Verbrauchern, erfolgt eine Gutschrift auf das Verrechnungskonto sofern zu viel bezahlt wurde.
+Zum dargestellten aktuellen Stand sind rund 10.000 Zählpunkte aktiv, davon etwa zwei Drittel Verbrauchs- und ein Drittel Erzeugungszählpunkte. Anfang 2025 beschleunigte sich das Wachstum deutlich. Damit stiegen auch die Anforderungen an die Abrechnung und die laufenden Abläufe.
 
-**Abstimmungsergebnis:** einstimmig angenommen
+Die Entwicklung 2025 und im ersten Halbjahr 2026, der Jahresabschluss 2025, der Bericht der Rechnungsprüfer:innen, die Entlastung des Vorstands und die Wahlen sollen in der nächsten ordentlichen Generalversammlung behandelt werden.
 
-### 3. Info zur Mehrfachteilnahme ab 2024
+#### Finanzbericht 2023 und 2024
 
-Wie im Erneuerbaren-Ausbau-Gesetz (EAG) festgehalten soll es möglich gemacht werden, dass sowohl Produzenten als auch Verbraucher in mehreren Energiegemeinschaften teilnehmen können. Auch können dann Teilnehmer an Gemeinschaftlichen Erzeugungsanlagen (GEAs) zusätzlich auch an Energiegemeinschaften (BEGs und EEGs) teilnehmen. Hierzu gab es ein erklärendes [Webinar](https://cloud.oesterreichsenergie.at/s/c5iasSyTbbK9JeD) und eine entsprechende Kunsultationszeit für Verbesserungsvorschläge.&#x20;
+Thomas Zeinzinger stellt die Einnahmen-Ausgaben-Rechnungen der Jahre 2023 und 2024 vor. Die Buchhaltung und steuerliche Abwicklung erfolgen über die K & F Steuerberatung GmbH.
 
-Wir haben auch schon Mitglieder die mit einer GEA in der Familie Strom weitergeben wollen. Auch wollen wir uns die Mehrfachteilnahme wegen der teilweise als unfair empfundenen Aufteilung von Strom beim [Dynamischen Verteilungsmodell](https://7energy.at/faq#dynamische-verteilung) bei Anlagen >25kWp genauer anschauchen. Das Tarifblatt werden wir dafür entsprechend anpassen.&#x20;
+Zur Umsatzsteuer 2024 wird berichtet, dass Umsätze und weitere steuerlich relevante Positionen in den Voranmeldungen nicht vollständig erfasst waren. Die Steuerberatung brachte am 23.12.2025 eine Selbstanzeige und die Jahresumsatzsteuererklärung ein. Laut Finanzbericht wurde die offengelegte Abgabennachforderung fristgerecht entrichtet. Die laufenden Umsatzsteuervoranmeldungen werden nun vollständig erfasst.
 
-Prinzipiell könnte man den Zuordnungsfaktor der Mehrfachteilnahme dafür nutzen, um auch große Verbraucher und Produzenten besser aufnehmen zu können. Idealerweise kann dann die prozentuelle Teilnahme an der 7Energy - BEG täglich angepasst werden, um den vorhergesagten verfügbaren erneuerbaren Strom möglichst gut und fair unter allen Mitgliedern aufteilen zu können.&#x20;
+Der Jahresabschluss 2025 befindet sich in Ausarbeitung. Für 2027 ist laut Bericht eine Umstellung auf doppelte Buchhaltung vorgesehen. Der geprüfte Rechnungsabschluss und die Entlastung des Vorstands werden in der ordentlichen Generalversammlung behandelt; in dieser Versammlung erfolgt hierzu keine Beschlussfassung.
 
-Wie immer hängen wir hier aber auch von der Energiewirtschaft und der Implementierungsgeschwindigkeit bei den Netzbetreibern ab.&#x20;
+### 3. Beschluss über die geänderten Statuten als Gesamtpaket
 
-Gesetzlich erlaubt ab 01.01.2024
+Die Statuten stammen aus der Gründungszeit. Die vorgeschlagenen Änderungen werden anhand der Präsentation erläutert. Sie betreffen folgende sechs Bereiche:
 
-Technisch umsetzbar ab April 2024 (geplant)
+#### a) Vereinszweck (§ 2)
 
-### 4. 7Energy - BEG Status und Ausblick
+Veraltete Verweise auf einzelne energierechtliche Bestimmungen werden durch einen allgemeinen Verweis auf die jeweils geltenden energierechtlichen Bestimmungen ersetzt. Der Hauptzweck bleibt auf ökologische und sozialgemeinschaftliche Vorteile für die Mitglieder ausgerichtet.
 
-* Wir haben schon einen guten Mitgliederstand, aber um das Ziel von 50 Mitgliedern bis zum Jahresende zu erreichen, braucht es noch etwas Arbeit. Aktuell hilft uns jedes Mitglied das System zu verbessern und zu automatisieren. Im Jahr 2024 sollten wir dann 5000 Mitglieder anpeilen, damit wir auch genügend Volumen umsetzen können.&#x20;
-* Aktuell führen wir mit mehreren Großunternehmen Gespräche über die Aufnahme in die BEG und in den Gesprächen können wir viele Vorteile für beide Seiten sehen. Die erstmalige Aufladung des Verrechnungskontos wird im Fall von Großverbrauchern vom Vorstand festgelegt, da die aktuell üblichen 100€ dafür nicht reichen werden.   &#x20;
-* Mit 31.12.2023 werden wir wahrscheinlich die Einhebung des Gemeinschaftskontobeitrages beenden und damit den Strom für Verbraucher um 2 ct/kWh senken. Sollen wir Projektfinanzierungen machen wollen, werden wir dafür die Möglichkeiten separat ausloten.&#x20;
-* Wir entwickeln gerade eine Kooperation mit EEGs, wo wir das Preismodell, die Servicegebühr und die gesamte Abrechnung aufeinander abstimmen. Momentan gehen wir von deutlichen Kostenvorteilen aus, wenn wir EEGs und BEGs gemeinsam bespielen können.&#x20;
-* Vertraglich werden wir die Tarifblätter darauf auslegen, dass wir Kostenvorteile auch an  Verbraucher weitergeben können und nicht auf einen hohen Tarif verbleiben. Ganz im Sinne von "HOT" wo man laufend von besseren Angeboten profitiert, ohne den Vertrag wechseln zu müssen.&#x20;
+#### b) Generalversammlung (§ 9)
 
-Ende der Generalversammlung um 18:35
+Abstimmungen und Wahlen erfolgen offen. Die bisherige Sonderregelung zur geheimen Personenwahl wird geändert. Die Generalversammlung kann von einem Vorstandsmitglied oder einer vom Vorstand bestimmten Person geleitet werden. Virtuelle Versammlungen sowie die Möglichkeit von Präsenz- und hybriden Versammlungen werden unter Verweis auf das VirtGesG ausdrücklich geregelt.
+
+#### c) Rhythmus der ordentlichen Generalversammlung (§ 9 Abs. 1)
+
+Die ordentliche Generalversammlung findet künftig alle vier statt alle zwei Jahre statt. Damit wird der Rhythmus an die bereits vierjährige Funktionsperiode des Vorstands und der Rechnungsprüfer:innen angepasst. Außerordentliche Generalversammlungen bleiben möglich.
+
+#### d) Mitgliedsbeiträge, Tarife und Verrechnung (§§ 7, 10 und 12)
+
+Die Festsetzung von Beitrittsgebühren, Mitgliedsbeiträgen, Tarifen und Verrechnungsmodalitäten wird ausdrücklich dem Vorstand zugeordnet. Die jeweils gültigen Festlegungen sind auf der Vereinswebseite oder im Mitgliederportal bekanntzugeben. Eine konkrete Änderung des Mitgliedsbeitrags wird in dieser Versammlung nicht beschlossen.
+
+#### e) Elektronische Erklärungen (§§ 6, 9, 11 und 15)
+
+Bei Austritt, Mahnungen, Erinnerungen, Anträgen auf eine außerordentliche Generalversammlung, Rücktritt von Vorstandsmitgliedern und der Benennung eines Schiedsrichters wird die elektronische Erklärung ausdrücklich neben der schriftlichen Erklärung vorgesehen. Die Fristen bleiben unverändert.
+
+#### f) Kleinere Anpassungen (§ 1 und weitere Bestimmungen)
+
+Der Vereinssitz wird ohne genaue Straßenadresse als Graz angeführt. Zusätzlich werden Verweise, Nummerierungen, Grammatik- und Tippfehler korrigiert.
+
+Die vollständige vorgelegte Statutenfassung ist der Beschlussgegenstand. Über sämtliche Änderungen wird gemeinsam als Gesamtpaket abgestimmt. Erläutert wird eine erforderliche Zweidrittelmehrheit der abgegebenen gültigen Ja- und Nein-Stimmen; Enthaltungen werden dabei nicht mitgerechnet.
+
+**Beschlussantrag:** Die Generalversammlung beschließt die Statuten der 7Energy – BEG in der vorgelegten Fassung.
+
+Nach der Beschlussfassung sollen die geänderten Statuten bei der Vereinsbehörde eingereicht werden. Im Anschluss ist noch für 2026 eine ordentliche Generalversammlung vorgesehen.
+
+**Abstimmungsergebnis:** einstimmig angenommen am 02.10.2026 um 15:39 Uhr über Teams-Umfrage.
+
+Die nächste ordentliche Generalversammlung soll nach der Bearbeitung der Statutenänderung durch die Vereinsbehörde stattfinden. Vorgesehen sind insbesondere die Berichte zu 2025 und 2026, die Rechnungsprüfung, die Entlastung des Vorstands und die Wahlen.
+
+Christoph Edlinger verweist auf die monatliche Sprechstunde am jeweils letzten Donnerstag des Monats; der nächste Termin ist der 29.10.2026. Eine Frage von Gernot zum Zero-Tarif wird zur gesonderten Beantwortung aufgenommen.
+
+Abschließend erläutert Thomas Zeinzinger nach Nachfrage die Vereinsstruktur: Die 7Energy – BEG ist die österreichweite Bürgerenergiegemeinschaft. Die regionalen Erneuerbare-Energie-Gemeinschaften sind eigenständige Vereine.
+
+Ende der Generalversammlung um 15:49
